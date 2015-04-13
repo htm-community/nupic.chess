@@ -1,0 +1,1582 @@
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "01"]
+[White "Diep"]
+[Black "The Baron"]
+[Result "1-0"]
+[ECO "D10/12"]
+[Opening "QGD Slav Defence"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 e5 5.e4 dxe4 6.Bb5+ Bd7 7.dxe5 Nc6 8.Qd5 a6
+9.Bc4 Qe7 10.Bg5 f6 11.exf6 Nxf6 12.Bxf6 gxf6 13.Qh5+ Kd8 14.O-O-O Kc8
+15.Kb1 Ne5 16.Be2 {DIAGRAM} Rg8 17.Nd5 Qd8 18.Qxh7 Rg5 19.h4 Rxg2 20.Qxe4 Rg8
+21.Nf3 Rg4 22.Qe3 Bf5+ 23.Ka1 Nd7 24.Nd4 Re4 25.Qc3+ Kb8 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "01"]
+[White "GNU Chess"]
+[Black "Tao"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez: exchange, Gligoric variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 Bg4 7.dxe5 Qxd1
+8.Rxd1 Bxf3 9.gxf3 fxe5 10.f4 Nf6 11.fxe5 Nxe4 12.Be3 Bc5 13.Nd2 Bxe3
+14.Nxe4 Bf4 15.Nc5 b6 16.Nd3 O-O 17.Nxf4 Rxf4 18.Re1 Re8 19.Rad1 Kf7
+20.Rd7+ Re7 {DIAGRAM} 21.Rd3 Rf5 22.Rde3 Ke6 23.c4 Rd7 24.R3e2 Rd4 25.b3 g6
+26.h3 c5 27.Kh2 b5 28.cxb5 axb5 29.Kg3 c4 30.Re3 Rg5+ 31.Kf3 Rh4 32.bxc4 Rxh3+
+33.Kf4 Rf5+ 34.Kg4 Rxe3 35.Rxe3 bxc4 36.f4 h5+ 37.Kg3 g5 38.fxg5 Rxg5+
+39.Kf4 Rf5+ 40.Kg3 Rxe5 41.Rc3 Kd5 42.Rc1 Kd4 43.Rd1+ Kc3 44.Kf4 Rc5
+45.Ke4 Kb2 46.Kd4 c3 47.Kxc5 c2 48.Rd2 Kb1 49.Rxc2 Kxc2 50.Kd4 c5+
+51.Kxc5 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "01"]
+[White "Rebel"]
+[Black "Ant"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French: Rubinstein variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Bd3 Be7 6.Nf3 Ngf6 7.Nxf6+ Nxf6
+8.Qe2 Bd7 9.O-O O-O 10.Ne5 Ba4 11.b3 Be8 12.Rd1 Qd6 13.a4 {DIAGRAM} a5
+14.Qf3 c6 15.Qh3 Qd8 16.Bg5 h6 17.Bxh6 Bd7 18.Bxg7 Kxg7 19.Qg3+ 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "01"]
+[White "Ruffian"]
+[Black "Chess Tiger"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.cxd5 Bxf3 5.dxc6 Bxc6 6.Nc3 e6 7.e4 Bb4
+8.f3 Qh4+ 9.g3 Qh5 10.Bg2 O-O-O 11.Be3 f5 {DIAGRAM} 12.O-O Nf6 13.e5 Bxc3
+14.exf6 Bxb2 15.Rb1 Bxd4 16.Bxd4 e5 17.Qb3 exd4 18.Qe6+ Bd7 19.Qd5 Bc6
+20.Qe6+ Bd7 21.Qd5 Bc6 22.Qe6+ 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "01"]
+[White "Deep Sjeng"]
+[Black "Nullmover"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "B66 Sicilian: Richter-Rauzer, Rauzer Attack, 7...a6"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6
+8.O-O-O h6 9.Be3 Nxd4 10.Bxd4 b5 11.f4 b4 12.Bxf6 Qxf6 13.Ne2 Rb8
+14.Nd4 Rb6 15.Bc4 g6 16.Bb3 Bg7 17.Ba4+ Bd7 18.Bxd7+ Kxd7 19.e5 Qd8 20.Rhe1 Kc8
+21.Nf3 {DIAGRAM} dxe5 22.Qf2 Qc7 23.Nxe5 Bxe5 24.fxe5 a5 25.Rd6 Rb7
+26.Qf6 Re8 27.Qh4 h5 28.Re4 Rb5 29.Rc4 Rc5 30.Qe4 Kb8 31.Rxb4+ axb4
+32.Qxb4+ Kc8 33.Qa4 Rh8 34.b4 Rxc2+ 35.Qxc2 Qxc2+ 36.Kxc2 h4 37.Rd2 Rh5
+38.Re2 Kc7 39.a4 Kc6 40.Kc3 Rg5 41.a5 Kb5 42.Rd2 Rxe5 43.Rd6 Re3+
+44.Kd4 Re2 45.Rb6+ Ka4 46.a6 Kb3 47.a7 Ra2 48.Rb7 f6 49.Kc5 e5
+50.b5 Ra5 51.Kc6 e4 52.b6 h3 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "01"]
+[White "XiniX"]
+[Black "The King"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence: Saemisch attack"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 Nxc3 4.dxc3 d6 5.Bf4 Nc6 6.Nf3 Bg4 7.h3 Bh5
+8.Bb5 e6 9.Qe2 Be7 10.g4 Bg6 11.Nd4 Qd7 12.h4 h5 13.O-O-O a6
+14.Nxc6 bxc6 15.Bd3 Bxd3 16.cxd3 c5 17.gxh5 Qa4 18.Qf3 Rb8 19.Kb1 Kd7
+20.Bc1 f5 21.Rdg1 Rh7 22.exd6 cxd6 23.Qe2 Qc6 24.Rh3 Bf6 25.Rg6 Qd5
+26.c4 Qd4 27.f4 Rh6 28.Rg2 Qc3 29.Rh1 Rhh8 30.Ka1 Qb4 31.Rhg1 Rhe8
+32.Rg6 Bd4 33.R1g2 Qa5 34.h6 gxh6 35.Rxh6 Re7 {DIAGRAM} 36.Rhg6 Qb6
+37.Rh2 a5 38.Qd1 Qb4 39.Kb1 a4 40.Rc2 a3 41.b3 Qa4 42.Rh2 Qa5 43.Bd2 Qa8
+44.h5 Rb6 45.h6 Qe8 46.Rg3 Qh8 47.Be3 Bxe3 48.Rxe3 Rh7 49.Qh1 Qd4
+50.Reh3 Rb8 51.Qc1 Rg8 52.Qxa3 Rg1+ 53.Kc2 Qa1 54.Qb2 Qf1 55.Kc3 Qxf4
+56.b4 Rc1+ 57.Rc2 Rxh6 58.Rxh6 Rxc2+ 59.Kxc2 Qxh6 60.b5 Qh2+
+61.Kb3 Qxb2+ 62.Kxb2 Kc7 63.a4 Kb6 64.Kc3 d5 65.d4 cxd4+ 66.Kxd4 dxc4
+67.Kxc4 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "01"]
+[White "Zzzzzz"]
+[Black "IsiChess MMX"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian: Najdorf (7...Be7) main line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+9.O-O-O Nbd7 10.Be2 b5 11.Bxf6 Nxf6 12.e5 Bb7 13.Qg3 dxe5 14.fxe5 Nd7
+{DIAGRAM} 15.Ndxb5 axb5 16.Bxb5 O-O-O 17.Bxd7+ Rxd7 18.Qxg7 Rhd8 19.Rxd7 Rxd7
+20.a4 Qc6 21.Qg8+ Kc7 22.Rg1 Qc5 23.Rf1 Qxe5 24.Kb1 Ba6 25.Rh1 Bb4
+26.Na2 Be1 27.Nc1 f5 28.Qa8 Bb7 29.Qa7 Rd1 30.Rf1 Qe2 31.Qc5+ Bc6
+32.Rf3 Qd2 33.Qa7+ Kc8 34.Qa6+ Bb7 35.Qxe6+ Kb8 36.Qe8+ Ka7
+37.Qe3+ Qxe3 38.Rxe3 Bd2 39.Rd3 Rxc1+ 40.Ka2 Bg5 41.h4 Bxh4 42.c3 Bxg2
+43.Kb3 Kb6 44.Rd7 Kc5 45.Rc7+ Bc6 46.Ka2 Bf6 47.Kb3 f4 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "02"]
+[White "Ant"]
+[Black "GNU Chess"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni: 6.e4"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.e4 Be7 7.Bd3 O-O 8.Nge2 a6
+9.O-O b5 10.Ng3 c4 11.Be2 Nbd7 12.a4 Rb8 13.Be3 b4 14.Nb1 Ne5
+15.Bd4 Qc7 16.Nd2 c3 17.bxc3 bxc3 18.Rc1 Qd7 19.Rxc3 Rb4 20.Bxe5 dxe5
+21.Nc4 Bd6 22.a5 Bb7 23.Qd3 Rc8 24.Nf5 Bc7 25.Rb1 Bxa5 26.Rbc1 Bc7
+27.Nxe5 Bxe5 28.Rxc8+ Bxc8 29.Rxc8+ Ne8 30.Ra8 {DIAGRAM} f6 31.g3 g6 32.Ne3 a5
+33.Bg4 Qe7 34.d6 Qxd6 35.Qxd6 Bxd6 36.Rxe8+ Kf7 37.Re6 Be5 38.Ra6 Rxe4
+39.Ra7+ Kg8 40.Rxa5 Bb2 41.Ra2 Bc1 42.Nd5 Re1+ 43.Kg2 f5 44.Be2 Kf8
+45.Ra8+ Kg7 46.Ra7+ Kf8 47.Bc4 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "02"]
+[White "The Baron"]
+[Black "Zzzzzz"]
+[Result "1-0"]
+[ECO "C88/04"]
+[Opening "Ruy Lopez"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.c3 a5 10.a4 b4 11.d4 bxc3 12.dxe5 cxb2 13.Bxb2 Nh5 14.Bc1 Bb4 15.Re2 Qe8
+16.Bd5 Rb8 17.Rc2 Nxe5 18.Bxb7 Nxf3+ 19.Qxf3 Rxb7 20.Qxh5 Qxe4
+21.Qe2 {DIAGRAM} Re8 22.Qxe4 Rxe4 23.Be3 f6 24.Nd2 Re8 25.Nb3 c6 26.Nc5 Ra7
+27.Rb1 Ba3 28.Rb3 Bxc5 29.Bxc5 Rc7 30.f3 Re1+ 31.Kf2 Re8 32.Re2 Rxe2+
+33.Kxe2 Rc8 34.Rb7 Re8+ 35.Be3 d6 36.Kd3 d5 37.Bd2 Rc8 38.Ra7 Re8
+39.Bxa5 h5 40.Rd7 Re6 41.Rc7 Kh7 42.Bb4 f5 43.a5 f4 44.a6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "02"]
+[White "IsiChess MMX"]
+[Black "Deep Sjeng"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[Opening "D19 QGD Slav: Dutch Variation"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O
+9.Nh4 Nbd7 10.f3 Bg6 11.Nxg6 hxg6 12.Qb3 a5 13.Rd1 Qe7 14.e4 e5 15.Be3 exd4
+16.Bxd4 Ne5 17.Ne2 Rad8 18.Qc2 Nxc4 19.Qxc4 Nd7 20.b3 Rfe8 21.Rab1 Ne5
+22.Qc2 Rd6 23.Be3 Red8 24.Rxd6 Qxd6 25.h3 f6 26.Bd4 g5 27.Rf1 Ng6
+28.Qc4+ Kh8 29.Rc1 Rd7 30.Rb1 Nf4 31.Bf2 Qe5 32.Nxf4 gxf4 33.Kh2 Kh7
+34.Rc1 f5 35.exf5 Qxf5 36.Be1 Ba3 37.Rc2 Re7 38.Bd2 b6 39.Ra2 Bd6
+40.Bc1 Re6 41.Re2 Rxe2 42.Qxe2 Be5 43.Qf2 c5 44.Qh4+ Kg6 45.Qe7 Qf6
+46.Qd7 Kh7 47.Bd2 Kh6 48.Qg4 Qd6 49.h4 {DIAGRAM} Kh7 50.Qh5+ Kg8
+51.Qe8+ Kh7 52.Bc1 Qf6 53.Qh5+ Kg8 54.Qe8+ Kh7 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "02"]
+[White "The King"]
+[Black "Rebel"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "A00 Dunst Opening"]
+
+1.Nc3 Nf6 2.Nf3 {DIAGRAM} d5 3.d4 g6 4.Bf4 Bg7 5.e3 O-O 6.Be2 c5 7.dxc5 Nbd7
+8.Nb5 a6 9.Nc7 Ra7 10.Nxd5 Nxd5 11.Qxd5 Bxb2 12.O-O Bxa1 13.Rxa1 Nf6 14.Qe5 Be6
+15.Bh6 Re8 16.Rd1 {DIAGRAM} Qb8 17.Rd6 b5 18.Nd2 Bf5 19.g4 Rd7 20.gxf5 Rxd6
+21.cxd6 Qxd6 22.Qxd6 exd6 23.c4 bxc4 24.Bxc4 d5 25.Bb3 Ne4 26.Nf3 Nc3
+27.Nd4 a5 28.a4 Rb8 29.Nc6 Rb6 30.Ne7+ Kh8 31.Bxd5 gxf5 32.Bc6 f4
+33.Bxf4 Ne2+ 34.Kg2 Nxf4+ 35.exf4 Rb8 36.Bb5 Ra8 37.Kf3 Kg7 38.Nc6 f6
+39.Ke4 Kf7 40.Kd4 Ke6 41.Bd3 Kd6 42.h3 h6 43.Be2 Re8 44.Bb5 Ra8 45.Ke4 Ke6
+46.Be2 f5+ 47.Kd4 {DIAGRAM} Kf6 48.Bf3 Rc8 49.h4 Rc7 50.h5 Rd7+ 51.Kc3 Rc7
+52.Kc4 Rb7 53.Nxa5 Rb2 54.Nc6 Rxf2 55.Ne5 Ra2 56.Bc6 Rf2 57.Nd3 Ra2 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "02"]
+[White "Nullmover"]
+[Black "Ruffian"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+
+1.d4 c6 2.c4 Nf6 3.Nc3 d5 4.e3 g6 5.Nf3 Bg7 6.Bd3 O-O 7.O-O Bg4
+8.h3 Bxf3 9.Qxf3 Qd6 10.Rd1 Nbd7 11.Qe2 e5 12.cxd5 Nxd5 13.dxe5 Qxe5
+14.Nxd5 cxd5 15.Bb5 Nc5 16.Qc2 Rac8 17.Be2 Rfd8 18.Bg4 Rc7 19.Bf3 Bf6
+20.a3 Ne4 21.Qe2 Rdc8 22.Qb5 a6 23.Qb3 h5 {DIAGRAM} 24.Be2 Bh4 25.f4 Qf5
+26.Bf3 Nf2 27.Rf1 Bg3 28.Qxd5 Nxh3+ 29.Kh1 Nf2+ 30.Kg1 Qxd5 31.Bxd5 Rc2
+32.e4 Re2 33.a4 h4 34.Ra3 Ng4 35.Bxb7 Rcc2 36.Rxg3 hxg3 37.e5 Ne3
+38.Bxe3 Rxb2 39.Bd5 Rxe3 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "02"]
+[White "Chess Tiger"]
+[Black "XiniX"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "C60 Ruy Lopez: Fianchetto Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.d4 exd4 5.Bg5 Bb4+ 6.Nbd2 f6 7.Bf4 a6 8.Bc4 b5
+9.Bd5 Nge7 10.O-O Bb7 11.a3 Ba5 12.Nb3 Bb6 13.Re1 g5 14.Bg3 {DIAGRAM} a5
+15.Nfxd4 Nxd4 16.Nxd4 Bxd5 17.exd5 Bxd4 18.Qxd4 O-O 19.d6 cxd6 20.Bxd6 Nc6
+21.Qd5+ Rf7 22.Qxb5 f5 23.Rad1 f4 24.Be5 Nxe5 25.Rxe5 Rg7 26.Qc4+ Kh8
+27.Rdd5 Rc8 28.Rc5 Rc6 29.Qd4 Rxc5 30.Rxc5 h5 31.h4 Kh7 32.Qe4+ Kh8
+33.Re5 Qf6 34.Rxa5 Rg8 35.Rf5 Qxb2 36.Qe7 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "02"]
+[White "Tao"]
+[Black "Diep"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti: King's Indian attack, Neo-closed Sicilian"]
+
+1.e4 c5 2.Nf3 d6 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.c3 Nf6 7.O-O O-O 8.Na3 Bg4
+9.Nc4 b5 10.Ne3 Bh5 11.h3 Bxf3 12.Qxf3 Rb8 13.Qd1 e6 14.Bd2 Qb6 15.f4 Rfd8
+16.Kh2 a5 17.Rb1 d5 18.e5 Ne8 19.Qf3 a4 20.Nc2 b4 21.cxb4 Nxb4 22.Nxb4 cxb4
+23.b3 a3 24.Qe3 Qxe3 25.Bxe3 f6 26.exf6 Bxf6 27.Rbc1 Rdc8 28.Rfe1 Kf7
+29.Ba7 Ra8 30.Bf2 Rc3 {DIAGRAM} 31.Rxc3 bxc3 32.Bc5 Nc7 33.Rc1 Rc8 34.Rc2 Nb5
+35.Bf2 Bd4 36.Kg1 Ke7 37.Bf3 Kd6 38.Kg2 Bxf2 39.Kxf2 e5 40.Rc1 exf4
+41.gxf4 Rf8 42.Ke3 d4+ 43.Kf2 Nc7 44.Kg3 Na6 45.Re1 c2 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "03"]
+[White "Diep"]
+[Black "IsiChess MMX"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD: exchange, positional line (5...c6)"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Ne4
+8.Bxe7 Qxe7 9.Qc2 Bf5 10.Nge2 Nd7 11.O-O Ndf6 12.Rae1 O-O 13.Nc1 Nxc3
+14.Bxf5 Nce4 15.f3 Nd6 16.Bd3 Rae8 17.Nb3 g6 18.Nc5 Nh5 19.b4 b6 20.Na4 Nc4
+21.Bxc4 dxc4 22.Qc3 Qg5 23.Rf2 Re7 24.Rc2 Rfe8 25.e4 Rd8 26.Nb2 b5 27.a4 a6
+{DIAGRAM} 28.g3 Red7 29.axb5 axb5 30.Rd2 Nf4 31.Kf2 Ne6 32.Red1 Qf6 33.Ke3 h6
+34.f4 g5 35.f5 g4 36.h4 c5 37.Kf2 cxd4 38.Qc2 d3 39.Nxd3 Qd4+
+40.Kf1 cxd3 41.Qc1 Nf8 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "03"]
+[White "Rebel"]
+[Black "The Baron"]
+[Result "1-0"]
+[ECO "B33/43"]
+[Opening "Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O f4 13.c4 b4 14.Nc2 a5 15.b3 Bg7
+16.Qh5 O-O 17.Rfd1 Bd7 18.a3 a4 19.axb4 axb3 20.Ne1 Nd4 21.Nf3 Nxf3+
+22.Qxf3 Qg5 23.h3 Be6 24.Nc7 Rxa1 25.Rxa1 Bd7 26.Nd5 {DIAGRAM} b2 27.Rb1 f5
+28.b5 Rb8 29.exf5 e4 30.Qxe4 Re8 31.Qxf4 Qxf4 32.Nxf4 Be5 33.Nd5 Bd4 34.g4 Kf7
+35.Kf1 Ra8 36.Kg2 h6 37.Re1 Re8 38.Rxe8 Bxe8 39.f4 Kf8 40.f6 Bf7
+41.g5 h5 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "03"]
+[White "Ruffian"]
+[Black "The King"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD"]
+
+1.d4 c6 2.c4 d5 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Be2 Bd6 7.Qc2 O-O 8.O-O Qe7
+9.a3 e5 10.cxd5 cxd5 11.Nb5 e4 12.Ne1 Nb8 13.Bd2 Nc6 14.Rc1 Bb8
+15.Qb3 a6 16.Nc3 Rd8 17.g3 Bh3 18.Ng2 Ba7 19.Na4 Qd7 20.Nc5 Bxc5
+21.Rxc5 Bg4 22.Bxg4 Nxg4 23.Rfc1 Nf6 24.Qd1 Rdc8 25.Nf4 b6 26.R5c3 Ne7
+27.Qb3 Rxc3 28.Rxc3 Rb8 29.Kg2 a5 30.Rc1 Qd8 31.Qb5 Ne8 32.b4 Nd6
+33.Qe2 Ra8 34.bxa5 bxa5 35.Rc5 Nb7 36.Rc2 Qd7 37.Kg1 Nd6 38.Rc5 Qa4
+39.Rc7 {DIAGRAM} Ng6 40.Nxd5 Qxa3 41.Rc6 Rd8 42.Qa6 Ne8 43.Rc8 Rxd5 44.Qc6 Rg5
+45.Qxe8+ Nf8 46.Bc1 Qb4 47.Rb8 Qd6 48.Rd8 Qb4 49.Bd2 Qa3 50.d5 h6 51.Be1 h5
+52.d6 Kh7 53.Qxf8 Kg6 54.d7 Qd3 55.Qh8 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "03"]
+[White "Deep Sjeng"]
+[Black "Chess Tiger"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "D27 QGA: Classical, Rubinstein Variation"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.a4 Nc6
+8.Qe2 Qc7 9.Nc3 Bd6 10.Rd1 O-O 11.Bd2 Bd7 12.d5 exd5 13.Nxd5 Nxd5
+14.Bxd5 Ne7 15.Bc4 Bc6 16.h3 Ng6 17.Bc3 Qe7 18.a5 Rad8 19.Rd2 Ne5
+20.Nxe5 Bxe5 21.Rxd8 Rxd8 22.Bxe5 Qxe5 23.Rd1 Rxd1+ 24.Qxd1 Qg5 25.Qg4 Qxg4
+26.hxg4 h6 27.Kh2 Kf8 28.Kg3 g5 29.f3 Ke7 {DIAGRAM} 30.e4 f6 31.Kf2 Kd6
+32.Ke3 Bb5 33.Bd5 Kc7 34.g3 Bf1 35.f4 b6 36.axb6+ Kxb6 37.e5 fxe5 38.f5 Kc7
+39.f6 Kd6 40.f7 Ke7 41.Ke4 a5 42.Be6 Be2 43.Kd5 c4 44.Kxe5 c3
+45.bxc3 a4 46.Kd4 a3 47.Kc5 Bxg4 48.Ba2 Bh5 49.f8=Q+ Kxf8 50.Kb4 Bf7
+51.c4 h5 52.Kxa3 h4 53.gxh4 gxh4 54.Bb1 h3 55.Be4 Ke7 56.c5 Bc4 57.Kb4 Bf1
+58.Bf5 h2 59.Be4 Bd3 60.Bh1 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "03"]
+[White "XiniX"]
+[Black "GNU Chess"]
+[Result "1-0"]
+[ECO "B34"]
+[Opening "Sicilian: accelerated fianchetto, modern variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Nxc6 bxc6 7.Bc4 Bxc3+
+8.bxc3 Qa5 9.Qf3 Nf6 10.Bh6 Qc5 11.Bb3 Qe5 12.O-O Qxe4 13.Qg3 Nh5 14.Qc7 e6
+15.Rad1 Qh4 16.Rd3 Qd8 17.Qxd8+ Kxd8 18.g4 Ba6 19.c4 Rg8 20.gxh5 Ke7
+21.Re1 gxh5+ 22.Kh1 d6 23.Be3 e5 24.f3 c5 25.Red1 Rad8 26.Bd2 Rg6
+27.Ba5 Rc8 28.Be1 Bb7 29.Bh4+ f6 30.h3 Rc6 31.Kh2 Rb6 32.a4 a5
+33.Be1 Ra6 34.Bg3 Rb6 35.Bh4 Bc8 36.Be1 Ra6 37.h4 f5 38.R1d2 Bb7 39.Re2 f4
+40.Bd2 Kf7 41.Bc3 Ke6 42.Bd2 Kf7 43.Rf2 Ke7 44.Rf1 Bc8 45.Be1 Ra8
+46.Rd1 Bb7 47.Rd2 Rag8 48.Re2 Bc6 49.Rd2 Bb7 50.c3 R6g7 51.Bc2 Bc6
+52.Re2 h6 53.Bd1 Bd7 54.Bc2 Bc6 55.Rd2 Rb8 56.Bd1 Rb1 57.Be2 Ra1
+58.Rb2 Rxa4 {DIAGRAM} 59.Rg1 Rxg1 60.Kxg1 Ra1 61.Kf2 a4 62.Rb8 a3
+63.Rh8 Be8 64.Rh7+ Bf7 65.Rh8 Ra2 66.Kf1 Rb2 67.Ra8 a2 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "03"]
+[White "Ant"]
+[Black "Tao"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian defence"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bd2 O-O 5.e3 d5 6.Nf3 c5 7.a3 Bxc3 8.Bxc3 Ne4
+9.Bd3 Nxc3 10.bxc3 dxc4 11.Bxc4 Nd7 12.Bd3 Nf6 13.O-O b6 14.dxc5 Bb7
+15.cxb6 axb6 16.Be2 Qxd1 17.Rfxd1 Ne4 18.Rd7 Bc6 19.Rc7 Rfc8 20.Rxc8+ Rxc8
+21.c4 Nc3 22.Nd4 Be4 23.Bf1 Kf8 24.f3 Bg6 25.e4 Rd8 26.Nb5 Na4
+27.Kf2 Ke7 28.Ke3 Nc5 29.e5 f6 30.exf6+ gxf6 31.Be2 Ra8 32.g4 Ra5 33.h4 e5
+34.Bf1 Bf7 35.h5 h6 36.Rc1 Be8 37.Rc3 Bc6 38.Kf2 {DIAGRAM} Ne6 39.Rb3 Nc5
+40.Re3 Ne6 41.Nc3 Nd4 42.Nb1 Ra8 43.Nd2 Bb7 44.Rc3 Ra5 45.Bd3 Bc8 46.Ke3 Bb7
+47.Be4 Bc8 48.Kd3 Ne6 49.Bd5 Nf4+ 50.Ke4 Ra4 51.Bg8 Kf8 52.Bh7 b5
+53.Bf5 Ne2 54.Rd3 Ng3+ 55.Kd5 bxc4 56.Nxc4 Ba6 57.Rc3 Ne2 58.Rc2 Nd4
+59.Bd7 Bb7+ 60.Kc5 Ra6 61.Rc3 Bxf3 62.Kb4 Ra8 63.Nb6 Rb8 64.Ka5 Ke7
+65.Bf5 Be2 66.Nc8+ Kd8 67.Nd6 Nxf5 68.gxf5 Ke7 69.Ne4 Rb5+ 70.Ka4 Rd5
+71.Ng3 Rd4+ 72.Ka5 Bd1 73.Kb6 Ba4 74.Kc5 Bd7 75.Re3 Rg4 76.Rb3 Be8
+77.Rb7+ Kf8 78.Rb3 Bf7 79.Rc3 Rh4 80.Kd6 Rd4+ 81.Kc6 Be8+ 82.Kc5 Rf4
+83.Kd6 Bf7 84.Rc8+ 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.18"]
+[Round "03"]
+[White "Zzzzzz"]
+[Black "Nullmover"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian: 4.e3 O-O, 5.Nf3 d5"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 c5 6.Bd3 Nc6 7.dxc5 Bxc5
+8.Bd2 Qe7 9.O-O d6 10.Qb3 e5 11.Nd5 Nxd5 12.cxd5 e4 13.dxc6 exd3
+14.Qxd3 bxc6 15.Nd4 Bd7 16.Nb3 Bb6 17.Bb4 c5 18.Ba3 Rad8 19.Rfd1 Bg4
+20.Rdc1 Rfe8 21.Nd2 h6 22.h3 Bc8 23.Nf1 Qg5 24.Kh2 Bb7 25.Ng3 h5
+26.Qf5 Qxf5 27.Nxf5 Re5 28.Ng3 Rde8 29.Ne2 Rg5 30.Nf4 Re4 31.g3 Re8
+32.Rc2 Be4 33.Rd2 d5 34.Rc1 c4 35.h4 Rf5 36.Kg1 Ba5 37.Rdd1 Bf3 38.Rd4 Bb6
+39.Rd2 f6 40.Bb4 g5 41.Ng2 Bxg2 42.Kxg2 gxh4 43.gxh4 Re4 44.Bd6 Rxh4
+45.Bf4 Rg4+ 46.Kh1 Rg7 47.Bd6 h4 48.Rg1 Rxg1+ 49.Kxg1 Kf7 50.Kg2 Ke6
+51.Bf8 Rh5 52.Kh3 Ke5 53.Ba3 a5 54.Rc2 Ke4 55.Rd2 Rh7 56.Bd6 a4
+57.Bb4 f5 58.Bf8 d4 59.exd4 Bxd4 60.Bb4 f4 61.a3 Rh6 62.Rc2 Rc6
+63.Kg4 {DIAGRAM} f3 64.Bc3 h3 65.Kxh3 Bxc3 66.Rxc3 Kf4 67.Kh2 Rc8 68.Kg1 Rc7
+69.Kf1 Rc6 70.Ke1 Re6+ 71.Kd1 Re4 72.Rc2 Ke5 73.Rd2 Kf5 74.Kc2 Rh4
+75.Kc3 Ke5 76.Rd1 Rh8 77.Kxc4 Rc8+ 78.Kd3 Rd8+ 79.Kc2 Rxd1 80.Kxd1 Kd4
+81.Kc2 Kc4 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "04"]
+[White "The Baron"]
+[Black "Nullmover"]
+[Result "1-0"]
+[ECO "E86"]
+[Opening "King's Indian"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6
+8.Qd2 Nbd7 9.O-O-O a6 10.Kb1 Qc7 11.dxe5 dxe5 12.Nc1 b5 13.Qd6 Qb7
+14.g4 Rd8 15.g5 Bf8 16.Qd2 Ne8 17.h4 Be7 18.Qf2 Ng7 19.f4 exf4 20.Bxf4 Ne6
+21.Bg3 Qa7 22.Qxa7 Rxa7 23.Nb3 Nb6 24.Rxd8+ Bxd8 25.Na5 Bd7 26.Bf2 Ra8
+27.Be3 b4 28.Ne2 Na4 29.Nb3 Bb6 30.Bxb6 Nxb6 31.Nec1 c5 32.Na5 Rd8
+33.Rh2 Bc8 34.Nd3 Rd4 35.Nf2 Rd6 36.Kc1 Kh8 37.Nb3 Nd4 38.Nd2 Be6 39.h5 Rd8
+40.hxg6 fxg6 41.b3 Nd7 42.Nd3 Bg4 43.Rh4 Be2 44.Bxe2 Nxe2+ 45.Kd1 Nd4
+46.e5 Ne6 47.Rg4 Nb8 48.Rg3 Nc6 49.Ke1 Rd4 50.Ke2 Ne7 51.Nf3 Rd8 52.Rg4 Rf8
+53.Ke3 Nf5+ 54.Ke4 {DIAGRAM} Rd8 55.Nf4 Neg7 56.Rg2 a5 57.Rg1 Kg8 58.e6 Rf8
+59.Ke5 Ne7 60.Rd1 Nc6+ 61.Ke4 Nf5 62.Rd3 Rc8 63.Rd7 Ng3+ 64.Kd5 Nf5
+65.Ne5 Nce7+ 66.Ke4 Ng3+ 67.Kd3 Rf8 68.Nd5 Nxd5 69.cxd5 Rf5 70.Ng4 c4+
+71.Kc2 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "04"]
+[White "Diep"]
+[Black "Deep Sjeng"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "D07 QGD: Chigorin Defense"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.d5 Ne5 5.Qd4 Ng6 6.e4 e5 7.Qxc4 Bd6
+8.Qa4+ Bd7 9.Bb5 Nf6 10.Nf3 O-O 11.Bxd7 Qxd7 12.Qxd7 Nxd7 13.Be3 Nb6
+14.Nd2 f5 15.O-O Nf4 16.Rfd1 Rad8 17.Nb5 Na4 18.Rab1 a6 19.Nxd6 cxd6
+20.Nf3 Rc8 21.Rd2 Rf6 22.g3 Nh5 23.exf5 Rxf5 {DIAGRAM} 24.Ng5 Nf6 25.Ne6 h6
+26.h3 e4 27.Rbd1 Kf7 28.g4 Rxd5 29.Rxd5 Nxd5 30.Ng5+ hxg5 31.Rxd5 Nxb2
+32.Rxd6 Nc4 33.Rd7+ Kg8 34.Bd4 Nd2 35.Bb2 Nf3+ 36.Kg2 b5 37.Rxg7+ Kf8
+38.Ra7 Rc6 39.Ba3+ Kg8 40.Kg3 Nh4 41.Bb2 Rc2 42.Rg7+ Kf8 43.Rxg5 Rxb2
+44.Kxh4 Rxf2 45.a3 Ra2 46.Rf5+ Kg7 47.Re5 Rxa3 48.Rxe4 a5 49.Re7+ Kf8
+50.Rb7 Rb3 51.Kg5 a4 52.Kf6 Rf3+ 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "04"]
+[White "IsiChess MMX"]
+[Black "Ruffian"]
+[Result "0-1"]
+[ECO "B85"]
+[Opening "Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.Be3 e6 8.O-O Be7
+9.f4 Qc7 10.a4 O-O 11.Qe1 Nxd4 12.Bxd4 e5 13.Be3 exf4 14.Bxf4 Be6
+15.Qg3 Nd7 16.Bh6 Qc5+ 17.Kh1 Qe5 18.Bf4 Qc5 19.Bg4 Ne5 20.Bf5 Ng6
+21.Be3 Qb4 22.Rab1 Bf6 23.Nd5 Bxd5 24.exd5 Rfe8 25.b3 Ne7 26.Bd7 Red8
+27.Rxf6 Rxd7 {DIAGRAM} 28.c4 b5 29.Qf2 Ng6 30.axb5 axb5 31.Bd2 Qa3 32.Rf3 Ne5
+33.Rg3 bxc4 34.Qf6 Ng6 35.Qd4 Qa2 36.Rd1 cxb3 37.Qb4 b2 38.Rb3 Rc7
+39.Bc3 Rc5 40.Bxb2 Rxd5 41.Re1 Qa5 42.Qe4 Rc8 43.Rf1 Rb5 44.Qd4 Ne5
+45.Rxb5 Qxb5 46.Rd1 h6 47.Ba3 Nc4 48.Bc1 Qc5 49.Kg1 Qxd4+ 50.Rxd4 Kf8
+51.Re4 d5 52.Rd4 Rd8 53.Bd2 Ke7 54.Bc3 Kd6 55.Rd3 Ne5 56.Rd2 f6 57.Bd4 Nc6
+58.Bf2 Ra8 59.h3 Ra4 60.Rb2 d4 61.Rb1 d3 62.Rd1 Ne5 63.Bg3 Ra3
+64.Be1 Kc5 65.Rb1 Ra2 66.Rc1+ Rc2 67.Rd1 Kd4 68.Bf2+ Kc3 69.g3 Nc4
+70.Kf1 d2 71.Ke2 Nb2 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "04"]
+[White "The King"]
+[Black "Ant"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English: four knights, Nimzovich variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bb4 5.d3 O-O 6.g3 d6 7.Bg2 Bg4
+8.h3 Bxf3 9.Bxf3 Nd4 10.O-O Bxc3 11.bxc3 Ne6 12.Rb1 b6 13.Bg2 Qc8
+14.Qe2 Rb8 15.f4 Qa6 16.Rb3 Nd7 17.Rd1 exf4 18.gxf4 Rbe8 19.d4 Nd8
+20.e5 Qc8 21.Qc2 dxe5 22.fxe5 Kh8 23.Qf5 Re7 24.Be4 g6 25.Qg4 Ne6 26.Bc6 f5
+27.Qg3 f4 28.Qh4 Rg7 29.Kh2 Qe8 30.Ba3 Rf5 31.Qf2 Rh5 32.Bf3 Rh6 33.Bg4 g5
+34.Re1 Rh4 35.Rb2 h5 36.Bf5 Qf7 37.Bd3 f3 38.Bf1 Qf5 39.Re3 Rf7 40.Rd2 {DIAGRAM} Re4
+41.Kh1 Ng7 42.Rxe4 Qxe4 43.Bd3 Qa8 44.Rd1 Qc6 45.Bc1 Qe6 46.Kh2 g4
+47.hxg4 c5 48.Re1 Qxg4 49.Rg1 Qe6 50.Rg6 Qe7 51.Rh6+ Kg8 52.Bh7+ Kf8
+53.Be4 Ke8 54.Bg6 Kd8 55.Bxf7 Qxf7 56.Qh4+ Kc7 57.Qf4 Qxf4+
+58.Bxf4 Nf8 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "04"]
+[White "Chess Tiger"]
+[Black "Rebel"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "B33 Sicilian: Sveshnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.Qh5 Rg8 13.g3 Rg5 14.Qd1 Bxd5
+15.exd5 Ne7 16.c3 Bh6 17.Be2 Rc8 18.c4 Qa5+ 19.Kf1 b4 20.Nc2 Qb6 21.f4 Rg6
+{DIAGRAM} 22.fxe5 dxe5 23.b3 f4 24.Qd3 Qf6 25.g4 f3 26.Qxf3 Nxd5 27.h4 e4
+28.Qxf6 Rxf6+ 29.Ke1 Bf4 30.Rd1 Bg3+ 31.Kd2 Nf4 32.Nxb4 Re6 33.Ke3 Ng2+
+34.Kd2 e3+ 35.Kc3 Nf4 36.Rde1 Bxe1+ 37.Rxe1 a5 38.Nd3 Nxe2+ 39.Rxe2 Kf8
+40.g5 Re4 41.h5 Kg7 42.Ne1 Rce8 43.Ng2 Rg4 44.Nxe3 Rxg5 45.Kd4 Rd8+
+46.Nd5 Rxh5 47.Rg2+ Kf8 48.Kc5 Rb8 49.Kd4 h6 50.Nf6 Rd8+ 51.Ke4 Rc5
+52.Kf4 Rd4+ 53.Ke3 Rd6 54.Rg8+ Ke7 55.Nd5+ Rdxd5 56.cxd5 Rxd5
+57.Ke4 Rb5 58.Rh8 h5 59.Kf4 Kf6 60.Ra8 Rd5 61.a4 Rf5+ 62.Kg3 Kg7 63.Rb8 Re5
+64.b4 Re4 65.bxa5 Rxa4 66.Ra8 Kg6 67.Rg8+ Kf5 68.Rh8 Ra3+ 69.Kh4 Ra1
+70.Kg3 Kg5 71.Rg8+ Kf6 72.Ra8 Ra4 73.Ra7 Kg6 74.Ra8 Kg5 75.Rg8+ Kf6
+76.Ra8 Ke7 77.Ra7+ Ke6 78.Ra8 Ra2 79.a6 Ra3+ 80.Kh4 Kf5 81.Rc8 f6
+82.Rc7 Kg6 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "04"]
+[White "Tao"]
+[Black "XiniX"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[Opening "Ruy Lopez: fianchetto (Smyslov-Barnes) defence"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.c3 Nge7 5.O-O a6 6.Qa4 d6 7.Be2 Bg7 8.d4 exd4
+9.cxd4 O-O 10.d5 Na7 11.Nc3 b5 12.Qb3 Bg4 13.Bg5 h6 14.Be3 c5 15.dxc6 Naxc6
+16.Rfd1 Rc8 17.Rd2 {DIAGRAM} Bxf3 18.gxf3 Qc7 19.Kh1 Rfd8 20.Rad1 Qb8 21.Rc2 Rc7
+22.Rdd2 Be5 23.Kg2 g5 24.Rd1 Rdc8 25.Rcd2 Na5 26.Qa3 b4 27.Qxa5 bxc3
+28.bxc3 Bxc3 29.Qxa6 Bxd2 30.Rxd2 Rc6 31.Qb5 Qa8 32.Bd1 Rd8 33.Bb3 Qc8
+34.Ba4 d5 35.Qb4 Rc7 36.Bb3 Ng6 37.Rxd5 Nh4+ 38.Kg3 Kh7 39.e5 Nf5+
+40.Kg2 Nh4+ 41.Kg3 Rxd5 42.Bxd5 Kg7 43.Qb6 Nf5+ 44.Kg2 Nh4+ 45.Kg3 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "04"]
+[White "GNU Chess"]
+[Black "Zzzzzz"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez: exchange variation doubly deferred"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.Nxe5 Nxe4
+8.d3 Nf6 9.Re1 O-O 10.Nd2 Re8 11.Ndc4 Be6 12.Bg5 Qd5 {DIAGRAM} 13.Bxf6 Bxf6
+14.Ng4 Be7 15.Re5 Qd7 16.Re4 f6 17.Nge3 b5 18.Nd2 f5 19.Rxe6 Qxe6 20.Nb3 f4
+21.Nf1 Qf6 22.c3 f3 23.g3 b4 24.Nd4 c5 25.Nxf3 bxc3 26.bxc3 Qxc3 27.Rc1 Qb2
+28.Rc2 Qb5 29.Ne5 Rad8 30.Ne3 Bf6 31.N5c4 Qa4 32.Ng4 Bd4 33.Nge3 Rb8
+34.h3 Qd7 35.Qf1 Re7 36.Kh2 Rbe8 37.a3 Rb8 38.Re2 Qe8 39.Rc2 Qf7
+40.Qh1 Ree8 41.Qd1 Re6 42.Kg1 Rbe8 43.Kh2 Qf8 44.Kg1 c6 45.Rc1 Rf6
+46.Rc2 Qf7 47.Ng4 Rfe6 48.Nge3 Rd8 49.Kh2 Rf8 50.Re2 Rfe8 51.Rc2 Kh8
+52.Kg1 Rb8 53.Kh2 Rf8 54.Re2 Rfe8 55.Rc2 Qd7 56.Qf1 Qc8 57.Re2 Qb8
+58.Qd1 Kg8 59.Qc2 Qc7 60.Qa4 Qb7 61.Qd1 Kh8 62.Kg1 R8e7 63.Kh2 Qb8
+64.h4 Re8 65.Kg2 Qc7 66.Kf1 R8e7 67.Qa4 Qc8 68.Kg2 Qb7 69.Qd1 Re8
+70.Kg1 Qa7 71.a4 Qb8 72.Kf1 R8e7 73.Kg2 Qa8 74.Kg1 Qc8 75.Qe1 Qb8
+76.Qd1 Rb7 77.Re1 Bc3 78.Rf1 Rb4 79.Qc2 Rb3 80.Qe2 Bd4 81.Kg2 Qd8
+82.Qd1 Rb7 83.Kg1 Qe8 84.Re1 Rb4 85.Kg2 Bc3 86.Rf1 Qd8 87.Kh2 Qf8 88.f4 Qe8
+89.Ng4 Re2+ 90.Kh3 Qe6 91.f5 Qe7 92.Rf2 Re1 93.Qf3 Bd4 94.Rc2 Qd7
+95.Re2 Rxe2 96.Qxe2 Rb3 97.Qe6 Qd5 98.Nd6 Rb8 99.Qe4 Qxd6 100.Ne3 Bxe3
+101.Qxe3 Qd5 102.g4 c4 103.dxc4 Qxc4 104.Kg2 Qxg4+ 105.Kf1 Rb1+
+106.Kf2 Rb2+ 107.Ke1 Qxh4+ 108.Kf1 Qh1+ 109.Qg1 Qf3+ 110.Ke1 Qe2# 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "05"]
+[White "Nullmover"]
+[Black "GNU Chess"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian: dragon (6.Be3)"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 e5 7.Bb5+ Nbd7
+8.Nf3 a6 9.Bd3 Ng4 10.Bg5 Be7 11.Bxe7 Qxe7 12.Bc4 O-O 13.O-O Ngf6 14.Ng5 b5
+15.Bxf7+ Rxf7 16.Nxf7 Kxf7 17.Nd5 Qd8 18.f4 Kg7 19.fxe5 dxe5 20.Qe2 Bb7
+21.Rad1 Qa5 22.Nxf6 Qb6+ 23.Kh1 Nxf6 24.Rxf6 Qxf6 25.Rd7+ Kg8
+26.Rxb7 Rd8 27.Qf3 Qxf3 28.gxf3 Rd1+ 29.Kg2 Rd2+ 30.Kg3 Rxc2 31.Rb6 Rxb2
+32.Rxa6 b4 33.Ra5 h6 34.h4 Kf7 {DIAGRAM} 35.h5 gxh5 36.Rxe5 Rxa2
+37.Rxh5 b3 38.Rxh6 b2 39.Rb6 Ke7 40.f4 Kd7 41.f5 Kc7 42.Rb4 Kd6
+43.f6 Ke6 44.Rb6+ Kf7 45.e5 Kg6 46.Rb8 Kf7 47.Kf4 Ke6 48.Rb6+ Kd5
+49.Kf5 Kc5 50.Rb8 Kd5 51.e6 b1=Q+ 52.Rxb1 Rd2 53.Rd1 Rxd1 54.e7 Re1
+55.f7 Re5+ 56.Kf4 Rxe7 57.f8=Q Re4+ 58.Kf3 Re5 59.Qa8+ Kd4 60.Qa4+ Kc5
+61.Kf4 Re6 62.Qa5+ Kd4 63.Qb4+ Kd5 64.Qb5+ Kd6 65.Kf5 Re7 66.Qb6+ Kd7
+67.Kf6 Re8 68.Qb5+ Kd8 69.Qa4 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "05"]
+[White "Rebel"]
+[Black "IsiChess MMX"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "B99 Sicilian: Najdorf, 7...Be7 Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 Nc5 14.f6 gxf6
+15.gxf6 Bf8 16.Rg1 b4 {DIAGRAM} 17.Nd5 exd5 18.exd5 Bd7 19.Rg7 Qa5 20.Qe3+ Kd8
+21.Rxf7 Qxa2 22.Ne6+ Nxe6 23.dxe6 Qxe6 24.Qb6+ Ke8 25.Rxd7 Qxd7 26.Bg2 Qa7
+27.Qc6+ Kd8 28.Re1 Bh6+ 29.Kb1 b3 30.Qxd6+ Qd7 31.Qb6+ Kc8 32.Qxb3 Rb8
+33.Qc3+ Qc7 34.Bh3+ Kb7 35.Re7 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "05"]
+[White "Ruffian"]
+[Black "Diep"]
+[Result "1/2-1/2"]
+[ECO "E20/13"]
+[Opening "Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 c5 5.g3 cxd4 6.Nxd4 O-O 7.Bg2 d5
+8.Qb3 Bxc3+ 9.Qxc3 e5 10.Nb3 d4 11.Qa5 Qe8 12.Bg5 Nc6 13.Qc7 Qd7
+14.Qxd7 Nxd7 15.O-O Nb6 16.Rfc1 Na4 17.Be4 Bg4 18.f3 Be6 19.Bd2 Rfc8
+20.f4 Bg4 21.fxe5 Nxb2 22.Rab1 Na4 {DIAGRAM} 23.c5 Nc3 24.Bxc3 dxc3 25.Bxc6 Rxc6
+26.Rxc3 b6 27.Rbc1 bxc5 28.Na5 Ra6 29.Rxc5 Rb8 30.Nc6 Re8 31.R1c2 Be6
+32.Ne7+ Kf8 33.Nd5 Bf5 34.Nc7 Ra4 35.Rb2 Rc8 36.e3 Rd8 37.Kf2 Rc8
+38.Kg2 Be4+ 39.Kg1 Rd8 40.Rc1 Ke7 41.Nb5 Ke6 42.Nd4+ Kxe5 43.Rc7 Bd5
+44.Rd2 Re8 45.Rc5 Kd6 46.Rdc2 Be6 47.a3 Bd7 48.R5c3 Re5 49.Rd3 Rd5
+50.Rcd2 Ke7 51.e4 Rh5 52.Rc2 Kf6 53.Nf3 Be6 54.e5+ Kg6 55.Rc6 h6
+56.Rcd6 Kh7 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "05"]
+[White "Deep Sjeng"]
+[Black "The King"]
+[Result "1-0"]
+[ECO "D36"]
+[Opening "D35 QGD: Exchange, Positional Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Qc2 c6
+8.Bd3 Nbd7 9.Nf3 Re8 10.O-O Nf8 11.Rab1 Ne4 12.Bxe7 Qxe7 13.b4 Nxc3
+14.Qxc3 Bg4 15.Ne5 Bh5 16.Bf5 Qg5 17.Qd3 Rxe5 18.dxe5 Bf3 19.Bh3 Be4
+20.Qc3 Bxb1 21.Rxb1 Qg6 22.Rc1 a6 23.Qc5 Qg5 24.Qb6 Qe7 25.g3 Ne6 26.f4 Rd8
+27.Kf1 Re8 28.Bxe6 fxe6 29.a4 Rd8 30.Ke2 Rc8 31.h4 Qd7 32.h5 Qf7 33.g4 Qe7
+34.g5 Ra8 35.g6 h6 36.a5 Rf8 37.Rh1 Rc8 38.Qc5 Qd8 39.e4 Qe8 40.Rd1 Rd8
+41.Rd4 Qd7 42.Kd2 Kh8 43.Kd3 Qe8 44.Ke3 Rc8 45.Kf2 Qd8 46.Kg3 {DIAGRAM} Qd7
+47.Qd6 Qe8 48.f5 exf5 49.exd5 c5 50.Rf4 Rd8 51.Qe6 Qa4 52.d6 Qa3+
+53.Rf3 Qa1 54.Qxf5 Qg1+ 55.Kh4 Qh2+ 56.Rh3 Qd2 57.bxc5 Qd4+ 58.Kg3 Kg8
+59.Qf7+ Kh8 60.Qf4 Qxc5 61.Rh1 Rg8 62.Kh4 Qd5 63.Rf1 Qa2 64.Rc1 Qe2
+65.Ra1 Rc8 66.d7 Rg8 67.Rc1 Qd3 68.Rc8 Qxd7 69.Rxg8+ Kxg8 70.Qc4+ Kf8
+71.Kg3 Ke7 72.Qf7+ Kd8 73.Qxd7+ Kxd7 74.Kf4 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "05"]
+[White "Tao"]
+[Black "Chess Tiger"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+
+1.e4 d6 2.f4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Bc4 O-O 6.d3 c6 7.O-O d5 8.Bb3 Bg4
+9.h3 Bxf3 10.Qxf3 e6 11.f5 exf5 12.exd5 Nxd5 13.Nxd5 cxd5 14.Qxd5 Qb6+
+15.Kh1 Nc6 16.Bg5 h6 17.Bh4 Bxb2 18.Rab1 Bg7 19.Qd7 Ne5 20.Qa4 Qc6
+21.Qxc6 Nxc6 22.Bd5 Rab8 23.c4 Be5 24.Bf2 Rfd8 25.Rfd1 Ne7 26.Bxb7 Rd7
+27.Bf3 Rxb1 28.Rxb1 Rxd3 29.Bxa7 Rc3 30.Bc5 Kf8 31.Re1 Bf6 32.Be2 Rc2
+33.a3 Kg7 34.Bd3 Rd2 35.Bf1 Nc6 36.Bb4 Rb2 37.Bd6 Rc2 38.Rd1 Ne5 39.c5 Nd7
+40.Bd3 Rc3 41.c6 Nc5 42.c7 Ne6 43.a4 Nxc7 44.a5 h5 45.Bf1 Rc6 46.Bh2 h4
+47.Bd3 Kh6 48.Bg1 Be5 49.Be3+ f4 50.Bd2 f6 51.Be4 Rc4 52.Bf3 Ra4 53.Bc6 Ra3
+54.Rc1 Ne6 55.Bb4 Rb3 56.Bd2 Nd4 57.Bd5 Ra3 58.Rb1 Bc7 59.Rc1 Bxa5
+60.Bxf4+ g5 61.Bd6 Ra4 62.Rf1 Kg6 63.Be4+ f5 64.Bb1 Rc4 65.Bh2 Bc7
+66.Bg1 Nc2 67.Rd1 Nb4 68.Rf1 Bf4 69.Re1 Kf6 70.Rd1 Be5 71.Rf1 f4 72.Bb6 Bc7
+73.Bf2 Bd6 74.Bb6 Rc6 75.Bd4+ Be5 76.Bf2 Rc8 77.Be4 Rc4 78.Bh7 Rc3
+79.Rb1 Nd5 80.Be4 Ne3 81.Rb6+ Ke7 82.Be1 Rc1 83.Rb1 Rc4 84.Bd3 Ra4
+{DIAGRAM} 85.Rb5 Ra1 86.Rb1 Ra2 87.Be4 Bd4 88.Rc1 Ke6 89.Bf3 Kf5 90.Bb4 g4
+91.hxg4+ Nxg4 92.Bd5 Rf2 93.Be7 h3 94.Bh4 Rb2 95.Bc6 hxg2# 96.Bxg2 Rb8
+97.Rd1 Ke5 98.Re1+ Be3 99.Ra1 Rh8 100.Ra5+ Kd4 101.Ra4+ Kc3
+102.Ba8 Rxh4+ 103.Kg2 Rh2+ 104.Kf3 Ne5+ 105.Ke4 Nc4 106.Kf3 Rh3+
+107.Ke4 Nd2+ 108.Ke5 Rh5+ 109.Ke6 f3 110.Ra3+ Kb4 111.Bxf3 Rh6+
+112.Kf7 Kxa3 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "05"]
+[White "XiniX"]
+[Black "The Baron"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 bxc6 5.O-O Qf6 6.d4 exd4 7.Nxd4 Bc5
+8.e5 Qg6 9.Re1 Ne7 10.Nb3 Ba7 11.Be3 O-O 12.Bxa7 Rxa7 13.Nc3 d6 14.Qd2 Bh3
+15.f3 d5 16.Kh1 Bc8 17.Na4 Nf5 18.Nac5 Re8 19.c4 Rd8 20.Rac1 Ra8
+21.Rcd1 Kh8 22.Na5 Ne7 23.b4 Rb8 24.a3 Ra8 25.Re4 Bf5 26.Rd4 Re8 27.a4 Reb8
+28.Rc1 Ra7 29.Nab3 Bc8 30.Rh4 Be6 31.Nd4 Bf5 32.cxd5 cxd5 33.b5 Bc8
+34.g3 h6 35.Rf4 Rb6 {DIAGRAM} 36.Qc3 axb5 37.Nxb5 Ra8 38.Nxc7 Rab8 39.Nb5 Kg8
+40.Re1 Bh3 41.Rc1 Qg5 42.Rh4 Bf5 43.Re1 Rc8 44.Nd6 Rcb8 45.Rf4 Rb2
+46.Qe3 Be6 47.Qg1 Ng6 48.Nxe6 fxe6 49.Rg4 Qh5 50.Rf1 Rf8 51.Rb1 Rxb1
+52.Qxb1 Nxe5 53.Qe1 Nxg4 54.Qxe6+ Kh7 55.Qxg4 Qe5 56.Qb4 Qa1+
+57.Kg2 Qa2+ 58.Kh3 Rxf3 59.Qb5 Rf2 60.Qd3+ g6 61.Qb5 Rxh2+ 62.Kg4 h5+
+63.Kg5 Qd2+ 64.Kf6 Rf2+ 65.Ke6 Qe3+ 66.Kd7 Qxg3 67.Qb7 Kh6 68.a5 d4
+69.a6 d3 70.a7 d2 71.a8=Q d1=Q 72.Qh8+ Kg5 73.Qd8+ Kg4 74.Qe7 Kh3
+75.Qe6+ Kh2 76.Qb6 Rd2 77.Ke8 Re2 78.Ne4 Qf4 79.Nc5 Rxe6+ 80.Nxe6 Qda4+
+81.Ke7 Qab4+ 82.Qxb4 Qxb4+ 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "05"]
+[White "Zzzzzz"]
+[Black "Ant"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[Opening "QGD: Cambridge Springs defence, Argentine variation"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 Bb4 8.Qc2 O-O
+9.Bh4 c5 10.dxc5 Qxc5 11.a3 Bxc3 12.Qxc3 Qc6 13.Qb3 a6 14.cxd5 Nxd5
+15.Be2 b6 16.Qd1 Bb7 17.Rc1 Nc5 18.Nf3 a5 19.O-O {DIAGRAM} Qa4 20.Qxa4 Nxa4
+21.Bb5 Nc5 22.Rfd1 Rfc8 23.Ne5 g5 24.Bg3 Kg7 25.Nd7 Nxd7 26.Bxd7 Rxc1
+27.Rxc1 h6 28.e4 Nf6 29.Bxe6 Re8 30.Bc4 Nxe4 31.Bc7 Rc8 32.Bb5 Nf6
+33.Rc3 Nd5 34.Be5+ f6 35.Rxc8 Bxc8 36.Bb8 Kf7 37.Bc4 Ke6 38.f4 Bb7
+39.fxg5 hxg5 40.Bb5 Ba8 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "06"]
+[White "GNU Chess"]
+[Black "IsiChess MMX"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian: Scheveningen, classical, Nd7 system"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O Nc6 8.Be3 Bd7
+9.a4 Be7 10.f3 O-O 11.g4 h6 12.Kh1 Rc8 13.Nxc6 Bxc6 14.Bd3 d5 15.exd5 Nxd5
+16.Nxd5 Qxd5 17.Qe2 h5 18.c4 Qe5 19.gxh5 Qxh5 20.Qg2 f5 {DIAGRAM} 21.c5 Rf6
+22.Qe2 Rg6 23.Bc4 Kh7 24.b4 Rg3 25.b5 Bxf3+ 26.Rxf3 Qxf3+ 27.Qxf3 Rxf3
+28.bxa6 Rxe3 29.axb7 Rh8 30.c6 Bd6 31.Rd1 Bb8 32.Rd3 Rxd3 33.Bxd3 Kg6
+34.Kg2 Rxh2+ 35.Kf3 e5 36.Ke3 e4 37.c7 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "06"]
+[White "Chess Tiger"]
+[Black "The Baron"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O
+8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 Nf6 12.d4 Bd6 13.Re2 Ng4 14.h3 Qh4
+15.Nd2 Bb7 16.Nf1 {DIAGRAM} Rae8 17.a4 Nf6 18.axb5 axb5 19.Ra7 Bc6
+20.Rxe8 Rxe8 21.Be3 Ra8 22.Rxa8+ Bxa8 23.Nd2 Bd5 24.Bxd5 Nxd5 25.Qf3 Nxe3
+26.Qxe3 Qd8 27.Kf1 Qa8 28.Ne4 Qa1+ 29.Qe1 Qxe1+ 30.Kxe1 Be7 31.Nc5 f5
+32.Ne6 c6 33.d5 cxd5 34.Nc7 Kf7 35.Nxb5 Kf6 36.f4 Bd8 37.b4 h6
+38.Ke2 Bb6 39.Nd4 g5 40.g3 gxf4 41.gxf4 Bc7 42.Ke3 Bb6 43.Kd3 Bd8
+44.c4 dxc4+ 45.Kxc4 Bc7 46.Ne2 Ke6 47.b5 Kd6 48.h4 Kd7 49.Kc5 Bd6+
+50.Kb6 h5 51.Ka7 Bc5+ 52.Ka6 Bd6 53.b6 Kc6 54.b7 Kd5 55.Ka7 Ke4 56.Kb6 Bb8
+57.Kc6 Ke3 58.Nc3 Kxf4 59.Kd7 Kg4 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "06"]
+[White "The King"]
+[Black "Zzzzzz"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+
+1.Nc3 e5 2.e4 Nf6 3.f4 d5 4.exd5 Nxd5 5.Nxd5 Qxd5 6.fxe5 Qxe5+ 7.Be2 Bg4
+8.d4 Qe4 9.Kf2 Bxe2 10.Qxe2 Qxe2+ 11.Nxe2 Nc6 12.Bf4 O-O-O 13.c3 Na5
+14.Rhf1 Nc4 15.b3 Na5 16.Ng3 Ba3 17.Rae1 Nc6 18.Nf5 g6 19.Ne3 Rhe8
+20.Kg1 Bb2 21.Nd1 Ba3 22.Bg5 Rxe1 23.Rxe1 Rd5 24.h4 Rd6 25.Re8+ Kd7
+26.Rh8 h5 27.Nf2 f6 28.Bf4 Re6 29.Rh7+ Ne7 30.Kf1 c6 31.b4 b6
+32.Nd3 {DIAGRAM} Re4 33.Kf2 Ke6 34.Kf3 Kf5 35.Bd2 Nc8 36.Rc7 Re8 37.Rxc6 Ne7
+38.Rc7 a5 39.bxa5 bxa5 40.Rb7 Bd6 41.c4 Nc6 42.Rb5+ Be5 43.dxe5 Nd4+
+44.Ke3 Nxb5 45.cxb5 a4 46.b6 Ke6 47.exf6 Kxf6+ 48.Kd4 Kf5 49.Bf4 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "06"]
+[White "Deep Sjeng"]
+[Black "Ruffian"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[Opening "D19 QGD Slav: Dutch Variation"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qe2 Bg6 10.e4 Bxc3 11.bxc3 Nxe4 12.Ba3 Qc7 13.Rfe1 Nxc3 14.Qb2 Ne4
+15.a5 O-O-O 16.a6 b6 17.Rac1 Nb8 18.Ne5 Nd6 19.Bb3 Nb5 20.d5 c5
+21.dxe6 Nxa3 22.exf7 Nxa6 23.Qxa3 Nb4 24.Be6+ Kb8 25.Qf3 Qd6
+26.Rcd1 Qxe6 27.Rxd8+ Rxd8 28.f8=Q Rxf8 29.Qxf8+ Kb7 30.Qxg7+ Ka6 {DIAGRAM}
+31.Nd3 Qf7 32.Nxb4+ cxb4 33.Qb2 b3 34.Qa3+ Kb5 35.Re5+ Kc6 36.Qa6 Kd6
+37.Re3 Bc2 38.g3 Kc5 39.Qa4 Qc4 40.Qxa7 Qd4 41.Qe7+ Kb5 42.Rf3 Qd1+
+43.Kg2 Qd5 44.Qe2+ Ka5 45.Kh3 Qh5+ 46.Kg2 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "06"]
+[White "Nullmover"]
+[Black "Tao"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez: closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
+8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.d5 Nb8 13.Nf1 Nbd7 14.Ng3 g6
+15.Be3 Nb6 16.Nf1 Qd7 17.N1d2 Bg7 18.Rc1 Nh5 19.c4 Nf4 20.Qc2 Rec8
+21.c5 dxc5 22.Bxc5 a5 23.a3 Ba6 24.Be3 a4 25.Ba2 b4 26.Bc4 b3
+27.Qc3 Nxc4 28.Nxc4 Qe8 29.Qd2 Bb5 30.Bxf4 exf4 31.Nd4 Ba6 32.Na5 Qf8
+33.e5 f3 34.gxf3 Bh6 35.f4 Qd8 36.Nf3 Qd7 37.Ng5 Bxg5 38.fxg5 Qxh3 {DIAGRAM}
+39.Qe3 Qf5 40.Nc6 Re8 41.Nb4 Re7 {DIAGRAM} 42.Nxa6 Rxa6 43.f4 f6 44.gxf6 Rxf6
+45.Rc4 g5 46.Rxa4 Rg6 47.Kf1 gxf4 48.Rxf4 Qh5 49.d6 cxd6 50.Qxb3+ Kg7
+51.Qc3 dxe5 52.Rf2 Qh1+ 53.Ke2 Qb7 54.b4 h6 55.Rf3 Kh7 56.Qb3 e4
+57.Rf8 Reg7 58.Kd1 Qc6 59.Ref1 Rd6+ 60.Ke2 Rd3 61.Qb2 Rc3 62.Qd2 Qc4+
+63.Ke1 e3 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "06"]
+[White "Ant"]
+[Black "XiniX"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 c5 5.Nf3 cxd4 6.exd4 e6 7.O-O a6 8.Nc3 b5
+9.Bd3 Bb7 10.Bg5 Be7 11.Bxf6 Bxf6 12.Be4 Bxe4 13.Nxe4 O-O 14.a4 bxa4
+15.Qxa4 Be7 16.Qc4 Qb6 17.Rfc1 Ra7 18.Rc2 Rd8 19.Rac1 Nd7 20.Qe2 Qb5
+21.Qe3 Rb7 22.Qe1 Nf8 23.Ra1 Ng6 24.Nc5 Ra7 25.Qf1 Qxf1+ 26.Kxf1 h5
+27.b4 Rb8 28.Ra4 Nf4 29.Ne5 Rb6 30.Rc3 Nd5 31.Rb3 f6 32.Nc4 {DIAGRAM} Rc6
+33.b5 axb5 34.Rxa7 bxc4 35.Rb8+ Kf7 36.Rbb7 h4 37.Ke2 g5 38.g4 hxg3 39.hxg3 c3
+40.Kd3 Rc8 41.Ra6 Kg6 42.Kc4 Kf7 43.Rb1 c2 44.Rc1 Rb8 45.Ra7 Rb4+
+46.Kd3 Rb2 47.Kd2 Rb4 48.Kxc2 Rxd4 49.Nb3 Rc4+ 50.Kd3 Rxc1 51.Nxc1 g4
+52.Kd4 Nb4 53.Kc4 Nc6 54.Rc7 Ne5+ 55.Kc3 f5 56.Nd3 Nxd3 57.Kxd3 Kf6
+58.Kd4 Bd6 59.Rb7 f4 60.gxf4 Bxf4 61.Ke4 Bh2 62.Rb3 Kg5 63.Rb2 Kh4
+64.Ke3 Kg5 65.Rc2 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.19"]
+[Round "06"]
+[White "Diep"]
+[Black "Rebel"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD: Chigorin defence, Janowski variation"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.d5 Ne5 5.Qd4 Ng6 6.e4 e5 7.Qxc4 Bd6
+8.Qa4+ Bd7 9.Bb5 Nf6 10.Nf3 O-O 11.Bxd7 Qxd7 12.Qxd7 Nxd7 13.Be3 Nf4
+14.Bxf4 exf4 15.Nd4 Be5 16.O-O-O Rae8 17.Rhe1 a6 18.Kc2 g6 19.Nce2 Re7
+20.f3 Rfe8 21.Rg1 Bd6 22.Rgf1 h5 23.Nc1 f5 24.exf5 Nb6 25.Ne6 gxf5
+26.Kb1 Nc4 27.Rh1 Ne3 28.Rd2 c6 29.Nd3 Nxd5 30.Nec5 b6 31.Na4 Re2
+32.Kc1 Kh7 33.Rhd1 R2e6 34.Kb1 Bf8 35.Rg1 Bg7 36.Rgd1 a5 37.Kc1 Bd4
+38.Kb1 c5 39.Nc1 Ne3 40.Rh1 b5 41.Nc3 Nc4 42.Rc2 Bxc3 43.Rxc3 Rg6
+44.Rg1 Nd2+ 45.Kc2 b4 46.Rd3 Nc4 47.Rd7+ Kh6 48.Kb3 Nb6 49.Rc7 c4+
+50.Kc2 Nd5 51.Rc5 Ne3+ 52.Kb1 a4 53.Ne2 Rxg2 54.Rc6+ Kg5 55.Rh1 h4
+56.Nd4 a3 57.bxa3 bxa3 58.Ne6+ Rxe6 59.Rxe6 Nd5 60.Re8 {DIAGRAM} Rb2+
+61.Kc1 Nb4 62.Rg1+ Kf6 63.Rgg8 Nxa2+ 64.Kd1 Nc3+ 65.Ke1 a2 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "07"]
+[White "Ant"]
+[Black "Nullmover"]
+[Result "1-0"]
+[ECO "E23"]
+[Opening "Nimzo-Indian: Spielmann (4...c5 5.dxc5 Nc6)"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Na6 6.a3 Qa5 7.Bd2 Bxc3
+8.Bxc3 Nxc5 9.Qc2 Qd8 10.g3 Nce4 11.Bg2 Nxc3 12.Qxc3 O-O 13.Nf3 d5
+14.O-O b6 15.cxd5 exd5 16.Nd4 Bg4 17.h3 Rc8 18.Qd3 Bd7 19.Kh2 Re8
+20.Rac1 Rc5 21.b4 Rc8 22.e3 Ne4 23.f4 a6 24.Qxa6 Nd2 25.Rfe1 Rxe3
+26.Bxd5 {DIAGRAM} g5 27.Rxe3 Rxc1 28.Bg2 Nc4 29.Re4 Nd6 30.Re5 gxf4 31.gxf4 Rc3
+32.Ne2 Rb3 33.Rd5 Qb8 34.Nd4 Re3 35.Qf1 Qc7 36.Qf2 Rxa3 37.Rg5+ Kf8
+38.Qh4 Re3 39.Rh5 Ke8 40.Rxh7 Ba4 41.Rh8+ Kd7 42.Qg4+ Ke7 43.b5 Bxb5
+44.Qg5+ Kd7 45.Nxb5 Nxb5 46.Qxb5+ 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "07"]
+[White "The Baron"]
+[Black "GNU Chess"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez (Spanish Opening)"]
+
+1.e4 Nc6 2.Nf3 e5 3.Bb5 Bd6 4.d3 a6 5.Ba4 Nf6 6.O-O O-O 7.c3 Be7
+8.Bxc6 dxc6 9.Nxe5 Be6 10.Bg5 Nd7 11.Bxe7 Qxe7 12.Nf3 Qd6 13.d4 Bc4
+14.Re1 Qf4 15.d5 cxd5 16.b3 dxe4 17.bxc4 exf3 18.Qxd7 Rfd8 19.Qh3 fxg2
+20.Na3 Qd2 21.Qe3 Qd6 22.Nc2 Qc6 23.Qe4 Qxe4 24.Rxe4 {DIAGRAM} Rd2 25.Ne3 b6
+26.Nd5 c6 27.Nxb6 Rb8 28.c5 Rbd8 29.Kxg2 f5 30.Re6 Rc2 31.Rxc6 Rdd2
+32.Rf1 Re2 33.Rd6 Rxc3 34.c6 g6 35.Nd5 Rc5 36.c7 Kg7 37.Rd7+ Kh6
+38.Nf6 Rec2 39.Rxh7+ Kg5 40.Ne8 Rxa2 41.Rg1 Ra3 42.Kf1+ Kf4 43.Rxg6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "07"]
+[White "IsiChess MMX"]
+[Black "Chess Tiger"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "D07 QGD: Chigorin Defense"]
+
+1.d4 d5 2.c4 Nc6 3.Nc3 Nf6 4.Nf3 dxc4 5.e4 Bg4 6.Be3 e6 7.Qa4 Bxf3
+8.gxf3 Nd7 9.Qxc4 Nb6 10.Qd3 Qf6 11.f4 O-O-O 12.O-O-O Bc5 13.d5 Bxe3+
+14.fxe3 exd5 15.Nxd5 Qe6 16.Be2 Kb8 17.Bf3 Nb4 18.Qb3 N4xd5 19.exd5 Qh3
+20.Rhf1 Rhe8 21.Kb1 Qf5+ 22.Ka1 Qf6 23.h3 Qh4 24.d6 cxd6 25.a4 d5 26.a5 Nc4
+{DIAGRAM} 27.Bxd5 Nxa5 28.Qa3 Nc6 29.Bxf7 Rxd1+ 30.Rxd1 Rd8 31.Rxd8+ Qxd8
+32.Bb3 Kc7 33.Ba4 Qd7 34.Qc3 g6 35.Bxc6 bxc6 36.Qa5+ Kc8 37.Qc3 Kd8 38.h4 Qe7
+39.h5 gxh5 40.Qa5+ Kc8 41.Qf5+ Kb8 42.e4 h4 43.e5 Qc5 44.Qf6 Qc1+
+45.Ka2 Qc4+ 46.b3 Qc2+ 47.Ka3 Qc1+ 48.Ka2 Qd2+ 49.Ka3 h3 50.Qh8+ Kc7
+51.Qxh7+ Qd7 52.Qh4 c5 53.b4 Qd3+ 54.Ka4 Qc2+ 55.Ka5 Qa2+ 56.Kb5 a6+
+57.Kxc5 Qc2+ 58.Kd4 h2 59.Qe7+ Kb6 60.Qd8+ Kb7 61.Qd7+ Qc7 62.Qh3 Qb6+
+63.Kd3 Qg6+ 64.Kd2 Qg1 65.Qd7+ Kb6 66.Qd8+ Kb5 67.Qa5+ Kc4
+68.Qxa6+ Kxb4 69.Qb7+ Kc5 70.Qa7+ 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "07"]
+[White "The King"]
+[Black "Diep"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian: Sozin attack"]
+
+1.Nf3 c5 2.e4 d6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 a6 6.Bc4 e6 7.O-O b5 8.Bb3 Be7
+9.f4 O-O 10.e5 dxe5 11.fxe5 Nfd7 12.Qh5 Bc5 13.Be3 Bb7 14.Kh1 Nc6
+15.Bxe6 Ncxe5 16.Bxd7 Nxd7 17.Rad1 g6 18.Qh3 Bxd4 19.Rxd4 f5 20.Qg3 Rf7
+21.Rfd1 Rc8 22.Bg5 Qe8 23.Re1 Qf8 24.Bf4 Nf6 25.Bd6 Qg7 26.Red1 Ne4
+27.Nxe4 fxe4 28.Kg1 Qf6 29.Be5 Qb6 30.Kh1 Re8 31.Bf4 Qf6 32.Be3 {DIAGRAM} Ref8
+33.h3 Bc8 34.Rd6 Qe7 35.Bc5 Qc7 36.Qe5 Rd7 37.c4 bxc4 38.a3 a5 39.Kg1 Rxd6
+40.Bxd6 Qd8 41.Qxe4 Rf6 42.Qxc4+ Be6 43.Qc6 Bb3 44.Rd4 a4 45.Qc5 Rf7
+46.Rb4 Rf5 47.Be5 Bf7 48.Rb7 Qe8 49.Re7 Qf8 50.Qc7 h5 51.Rd7 Qe8 52.Bd4 Rf4
+53.Qd6 Rxd4 54.Qxd4 Qe6 55.h4 Qc6 56.Ra7 Qc1+ 57.Kh2 Qc8 58.Qf4 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "07"]
+[White "Ruffian"]
+[Black "Rebel"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "C88 Ruy Lopez: Closed"]
+
+1.Nf3 Nc6 2.e4 e5 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.Bd5 Nxd5
+9.exd5 Nb4 10.d4 e4 11.Rxe4 Bf5 12.Re2 Nxd5 13.Bg5 O-O 14.Bxe7 Nxe7
+15.Nc3 b4 16.Ne4 Nd5 17.a3 Bg4 18.Re1 Re8 19.Qd3 Bf5 20.Nfd2 Nb6 21.Qf3 Bg6
+22.axb4 d5 23.Nc5 Rxe1+ 24.Rxe1 Bxc2 25.Qe2 Qd6 26.Nxa6 f6 27.b5 Bf5 28.Nf1 Bd7
+29.Ne3 Re8 30.Qc2 Nc4 31.b3 Nxe3 32.Rxe3 Ra8 33.g3 Ra7 34.Qe2 {DIAGRAM} f5
+35.Kg2 h6 36.Nc5 f4 37.Re7 Bxb5 38.Qe6+ Qxe6 39.Nxe6 Kh8 40.Rxc7 Ra3
+41.Nxf4 Rxb3 42.Nxd5 Rd3 43.Nc3 Bd7 44.Rxd7 Rxc3 45.h4 Kg8 46.f3 Rc2+
+47.Kh3 h5 48.g4 Kh7 49.gxh5 Kh6 50.Kg4 Rg2+ 51.Kf5 Kxh5 52.d5 Rd2
+53.Rd8 Kxh4 54.d6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "07"]
+[White "Tao"]
+[Black "Deep Sjeng"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "B31 Sicilian: Nimzovich-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 O-O 8.Be3 b6
+9.Qd2 e5 10.Bh6 Qe7 11.O-O-O Bd7 12.Bxg7 Kxg7 13.Qg5 Rfe8 14.g3 a5
+15.Nd2 a4 16.f4 h6 17.Qh4 exf4 18.gxf4 Nh5 19.Qxe7 Rxe7 20.Nc4 Ra6
+21.Ne2 Be6 22.Ne3 Bxa2 23.f5 f6 24.fxg6 Kxg6 25.Rdf1 Be6 26.Rhg1+ Kf7
+27.Ng4 Bxg4 28.hxg4 Ng7 29.Rh1 Kg6 30.Nf4+ Kg5 31.Nh5 c4 32.Nxf6 a3
+33.bxa3 cxd3 34.cxd3 Rxa3 35.Kd2 Raa7 36.Ke3 c5 37.Rf2 Ra3 {DIAGRAM} 38.Nd5 Rd7
+39.Rfh2 c4 40.Kd4 cxd3 41.Rxh6 d2 42.Rxb6 Rd8 43.Rd1 Re8 44.Rxd2 Ne6+
+45.Kc4 Rc8+ 46.Kb4 Ra1 47.Nc3 Nf4 48.Rdd6 Rc1 49.Rbc6 Nd3+ 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "07"]
+[White "XiniX"]
+[Black "Zzzzzz"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights game"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.h3 Bb4 5.Nd5 Nxe4 6.Qe2 f5 7.Nxb4 Nxb4
+8.d3 Nf6 9.Qxe5+ Kf7 10.Kd1 d6 11.Qc3 Nbd5 12.Qb3 h6 13.g3 Re8
+14.Bg2 Kg8 15.Nd4 c6 16.c4 Nb6 17.Bf4 d5 18.c5 Nbd7 19.Qc3 Nf8
+20.Kc2 Ng6 21.Bd6 f4 22.Rac1 fxg3 23.fxg3 Nh8 24.g4 Nf7 25.Bf4 g5 26.Bh2 h5
+27.gxh5 Nxh5 28.Kb1 Nh8 29.h4 g4 30.Rcf1 Nf7 31.Qd2 Ng7 32.Qf2 Rf8
+33.Bf4 {DIAGRAM} Qe7 34.h5 Ne6 35.Qe1 Qf6 36.Nxe6 Qxe6 37.Qc3 d4 38.Qxd4 Rd8
+39.Qc3 Qd7 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "08"]
+[White "GNU Chess"]
+[Black "Diep"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian: Najdorf, Opovcensky variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Be3 Be6 10.f4 exf4 11.Rxf4 Nc6 12.Nd5 Bxd5 13.exd5 Ne5 14.c3 Qc7
+15.Qd4 b5 16.Rd1 Nfd7 17.Rf5 Nc4 18.Bxc4 bxc4 19.Nd2 Ne5 20.Rdf1 g6
+21.R5f2 f5 22.Re2 Bf6 23.Kh1 Rab8 24.Rb1 Qa5 25.a3 Qb5 {DIAGRAM}
+26.h3 Rbe8 27.a4 Qxa4 28.Bf4 Nd3 29.Re5 dxe5 30.Qxc4 Qxc4 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "08"]
+[White "Zzzzzz"]
+[Black "Tao"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD: Tartakower (Makagonov-Bondarevsky) system (8.cd Nxd5)"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.cxd5 exd5
+9.Bd3 Be6 10.O-O c5 11.h3 a6 12.dxc5 bxc5 13.Bc2 Nbd7 14.Bg3 Nb6 15.Qe2 Re8
+16.Rfd1 Bd6 17.Bxd6 Qxd6 18.Qf1 Qc7 19.Rac1 Qb7 20.Na4 Nxa4 21.Bxa4 Rec8
+22.b3 Qe7 23.Rd2 Ne4 24.Rdc2 Bf5 25.Qd1 Qd6 26.Ne1 Rc7 {DIAGRAM} 
+27.f3 Ng3 28.e4 Bg6 29.Rf2 Re7 30.Nc2 Rd8 31.Rd2 Qf4 32.Rb1 d4 33.b4 f5
+34.bxc5 fxe4 35.Rxd4 Rxd4 36.Nxd4 exf3 37.Bb3+ Kh8 38.Nxf3 Qe3+ 39.Kh2 Bxb1
+40.Qxb1 Ne4 41.c6 Qf4+ 42.Kg1 Nd2 43.Qd1 Nxf3+ 44.gxf3 Qg3+
+45.Kf1 Qxh3+ 46.Kg1 Re8 47.Bf7 Rf8 48.Qe2 Qf5 49.Bc4 Qg6+ 50.Kf2 Re8
+51.Qd3 Qxc6 52.Kg2 Qc5 53.Bxa6 Qg5+ 54.Kf2 Qh4+ 55.Kg2 Re1 56.f4 Ra1
+57.Qe3 Qg4+ 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "08"]
+[White "Rebel"]
+[Black "Deep Sjeng"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[Opening "B46 Sicilian: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Nc6 6.Be3 Qc7 7.Bd3 Nf6
+8.O-O Ne5 9.h3 Bc5 10.Kh1 d6 11.f4 Nxd3 12.cxd3 b5 13.Rc1 Qb6
+14.Nce2 O-O 15.Bg1 b4 16.e5 Nd7 17.Qe1 Bb7 18.Qg3 Rac8 19.Rfe1 Bd5
+20.Nxe6 fxe6 21.d4 dxe5 22.dxc5 Qb5 23.fxe5 Nxc5 24.Bxc5 Rxc5
+25.Nf4 {DIAGRAM} Rxc1 26.Rxc1 Bxa2 27.Nh5 Qb7 28.b3 Qf7 29.Nf6+ Kh8 30.Ne4 h6
+31.Qe3 Qf5 32.Nc5 a5 33.Qe2 Qf4 34.Rd1 Qf2 35.Qxf2 Rxf2 36.Nxe6 Bxb3
+37.Rd8+ Kh7 38.Nf8+ Rxf8 39.Rxf8 a4 40.e6 Bxe6 41.Rf4 a3 42.Rxb4 a2
+43.Ra4 Bd5 44.Kg1 Kg6 45.Ra5 Kf6 46.Kf2 Kf7 47.g3 Kf6 48.Ke3 Ke5 49.Kd3 h5
+50.Ke3 g5 51.h4 gxh4 52.gxh4 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "08"]
+[White "Nullmover"]
+[Black "XiniX"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGA: 3.Nf3"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 c6 4.e3 b5 5.a4 Nf6 6.axb5 cxb5 7.b3 e6 8.bxc4 bxc4
+9.Bxc4 Bb7 10.O-O Nbd7 11.Ba6 Bc6 12.Qe2 Be7 13.Bd2 Qc7 14.Rc1 Qd6
+15.Bd3 Bxf3 16.Qxf3 O-O 17.Na3 {DIAGRAM} Nd5 18.Nb5 Qb8 19.e4 a6 20.exd5 axb5
+21.dxe6 Rxa1 22.Rxa1 fxe6 23.Qh3 Nf6 24.Qxe6+ Rf7 25.Bc2 Bf8 26.Bb3 Qb7
+27.Rc1 Nh5 28.Bd5 Qa7 29.Rc8 g5 30.Qe8 Kg7 31.Qe5+ Nf6 32.Bxf7 Kxf7
+33.Rc7+ Qxc7 34.Qxc7+ Be7 35.Bxg5 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "08"]
+[White "IsiChess MMX"]
+[Black "Ant"]
+[Result "1-0"]
+[ECO "E57"]
+[Opening "Nimzo-Indian: 4.e3, main line (with 8...dxc4 & 9...cxd4)"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 5.e3 O-O 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nc6
+9.a3 Ba5 10.Ba2 a6 11.Bb1 Bb6 12.Qc2 g6 13.dxc5 Bxc5 14.b4 Be7
+15.Rd1 Qc7 16.Bb2 {DIAGRAM} e5 17.e4 Bg4 18.Nd5 Qd6 19.Ne3 Qb8 20.Nxg4 Nxg4
+21.Ba2 Rc8 22.Qc4 Rf8 23.Rac1 Bf6 24.h3 Nh6 25.Qc5 Re8 26.Bd5 Ne7
+27.Bb3 Nc6 28.Rd7 Rd8 29.Rcd1 Rxd7 30.Rxd7 Qc8 31.Qd5 Kh8 32.g4 Bg7 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "08"]
+[White "The Baron"]
+[Black "Ruffian"]
+[Result "0-1"]
+[ECO "B82/09"]
+[Opening "Sicilian"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.f4 b5
+8.Qf3 Bb7 9.Bd3 Nbd7 10.g4 b4 11.Nce2 Nc5 12.Ng3 d5 13.e5 Nfd7
+14.Be2 Be7 15.O-O O-O {DIAGRAM} 16.Rfc1 f6 17.exf6 Bxf6 18.Qf2 e5 19.fxe5 Bxe5
+20.Ngf5 Kh8 21.Qg2 g6 22.Ng3 Qf6 23.c3 Ne6 24.g5 Qe7 25.Bg4 Nf4 26.Qc2 bxc3
+27.bxc3 Nb6 28.h4 Nc4 29.Bf2 Bc8 30.Bxc8 Raxc8 31.Kh1 Qd7 32.Ngf5 gxf5 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "08"]
+[White "Chess Tiger"]
+[Black "The King"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "A41 Old Indian Defense"]
+
+1.d4 d6 2.c4 f5 3.Bf4 e5 4.dxe5 g5 5.Bc1 Nc6 6.exd6 Bxd6 7.Nc3 Be6 8.g3 Qf6
+9.h4 gxh4 10.Rxh4 O-O-O 11.Qb3 Qg7 12.Be3 Be7 13.Rf4 Bg5 14.Rf3 Nge7
+15.Bg2 Bf6 16.Bxa7 Qf7 17.Bc5 Bxc4 18.Qa3 Kb8 19.Rf4 Rhg8 20.Bxe7 Bxe7
+21.Qa4 Ne5 22.Nf3 Nxf3+ 23.Bxf3 Ba6 24.Rd1 Qg6 25.Rd5 Rxd5 26.Bxd5 Rd8
+27.Qc2 Rf8 28.Ra4 Qh6 29.e3 c6 30.Bf3 Qe6 31.Be2 Bxe2 32.Nxe2 c5 33.Nf4 Qc6
+34.Ke2 Rd8 35.Rc4 Qf6 36.Qb3 Qa6 37.Nd3 Qc6 38.Rc1 Qg6 39.Ne5 Qd6
+40.Nc4 Qh6 41.Nd2 Qd6 42.Nf3 h5 43.Qc4 Bf6 44.b3 Qd7 45.a4 Be7
+46.Rh1 Qd6 47.Rb1 Ka8 48.Rc1 Ka7 49.Qb5 Qd5 50.Qa5+ Kb8 51.Qc3 Ka8
+52.Qc2 Qe6 53.Qc4 Qd6 54.Kf1 Qf6 55.Kg2 Qg6 56.Rh1 Ka7 57.Rh3 Rd1
+58.Qc2 Rd5 59.Rh1 Rd8 60.Qc4 Ka8 61.Qf4 Rd5 62.Qc7 Bd8 63.Nh4 Qe6
+64.Qf4 Be7 65.Rh2 Ka7 66.Rh3 Qf6 67.Qf3 Re5 68.Qd1 Qf7 69.Kh2 Rd5
+70.Qe2 Rd8 71.Qc2 Rf8 72.Qd3 Qf6 73.Nf3 h4 74.Nxh4 Qb2 75.Kg2 Rd8
+76.Qc4 Rd2 77.Qf4 Bg5 78.Qf3 Qxb3 79.Nxf5 Qxa4 80.Rh5 Bf6 81.g4 c4
+82.Ng3 Be7 83.Rh7 Qb4 84.Ne4 Rd8 85.Qf7 Bf8 86.g5 Qb5 87.g6 Qc6
+88.f3 c3 89.Rh1 c2 90.Ra1+ Kb6 {DIAGRAM} 91.Rc1 Rd1 92.Qb3+ Ka7 93.Rxc2 Qxg6+
+94.Ng3 Rd3 95.Qa4+ Kb8 96.Qa5 Bd6 97.Qd8+ Ka7 98.Ra2+ Ba3 99.Qa5+ Qa6
+100.Qe5 Qc4 101.Qb2 Qa6 102.Qe2 Rb3 103.Qd2 Rd3 104.Qf2 Qe6
+105.e4+ Kb8 106.Qc2 Qd7 107.Nf5 b5 108.f4 Kb7 109.Kf2 Rh3 110.Qb1 Bc5+
+111.Kg2 Rc3 112.Re2 Qe8 113.Qe1 Qg8+ 114.Ng3 Rb3 115.Rc2 Bb4
+116.Qf2 Be7 117.Qe1 Bh4 118.Rc3 Bxg3 119.Qxg3 {DIAGRAM} 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "09"]
+[White "The King"]
+[Black "IsiChess MMX"]
+[Result "1-0"]
+[ECO "D40"]
+[Opening "QGD: semi-Tarrasch, symmetrical variation"]
+
+1.Nf3 d5 2.d4 Nf6 3.e3 e6 4.c4 c5 5.Nc3 Nc6 6.a3 cxd4 7.exd4 Ne4 8.Bd3 Nxc3
+9.bxc3 dxc4 10.Bxc4 Be7 11.O-O O-O 12.Qd3 Na5 13.Ba2 b6 14.Bb1 g6
+15.Ba2 Bb7 16.Ne5 Bd6 17.Re1 Qh4 18.h3 Rac8 19.Bd2 {DIAGRAM} Bxa3 20.Ng4 Be7
+21.Bf4 Nc6 22.d5 exd5 23.Bxd5 Bc5 24.Qd2 Rfd8 25.Bg5 Qg3 26.Bxf7+ Kg7
+27.Bf6+ Kxf7 28.Qh6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "09"]
+[White "Deep Sjeng"]
+[Black "XiniX"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "C41 Philidor: Exchange Variation"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bb5 Bd7 7.Bxc6 bxc6
+8.Qd3 c5 9.Nf5 g6 10.Nh6 Rb8 11.O-O Be6 12.Re1 {DIAGRAM} Nd7 13.Nd5 c6 14.Qg3 Rb7
+15.Bg5 Qb8 16.Qc3 cxd5 17.Qxh8 dxe4 18.Rxe4 Rxb2 19.Ree1 c4 20.Rad1 Rb5
+21.f4 Rxg5 22.fxg5 Ne5 23.Kh1 a6 24.Qxh7 Qb2 25.Rb1 Qxc2 26.Ng8 Qf2
+27.Nf6+ Ke7 28.Rb7+ Kd8 29.Reb1 Qc5 30.Ne4 Qc7 31.Qh8 Nd7 32.Nf6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "09"]
+[White "Chess Tiger"]
+[Black "Nullmover"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "B99 Sicilian: Najdorf, 7...Be7 Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 Nc5 14.f6 gxf6
+15.gxf6 Bf8 16.Rg1 Rb8 17.Qh5 b4 18.Nd5 exd5 19.exd5 Nd7 20.Kb1 Ne5
+21.Ne6 Qb6 22.Bh3 h6 23.Rg3 {DIAGRAM} Bb7 24.Nxf8 Rxf8 25.Qxh6 a5 26.Rdg1 Nd7
+27.Re1+ Ne5 28.Rg5 Bxd5 29.Rh5 Rg8 30.Qg7 Kd8 31.Qxg8+ Kc7 32.Qg3 Re8
+33.Rd1 Qc6 34.Rg5 Bf3 35.Re1 Be4 36.Rc1 a4 37.Qe3 b3 38.Qa7+ Qb7
+39.Qxb7+ Kxb7 40.Bg2 Bxg2 41.Rxg2 bxc2+ 42.Rgxc2 Re6 43.Rf1 Nd7 44.h4 Nxf6
+45.Rc4 a3 46.Rf3 d5 47.Rb3+ Rb6 48.Rf4 Rxb3 49.axb3 a2+ 50.Kxa2 Nh5
+51.Rxf7+ Kc6 52.Rf5 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "09"]
+[White "Ruffian"]
+[Black "Tao"]
+[Result "1-0"]
+[ECO "A26"]
+[Opening "English"]
+
+1.g3 g6 2.c4 f5 3.d4 Nc6 4.Nf3 Bg7 5.Bg2 Nf6 6.Nc3 Ne4 7.O-O e6
+8.Qd3 Nb4 9.Qb1 d5 10.cxd5 exd5 11.Bf4 O-O 12.Qc1 Na6 13.Be5 Be6 14.Bxg7 Kxg7
+15.Rd1 Qd6 16.Ne5 c5 17.Qf4 Rae8 18.Rac1 {DIAGRAM} Qb6 19.dxc5 Qxb2
+20.Bxe4 dxe4 21.c6 Kg8 22.Qe3 bxc6 23.Nxc6 Ra8 24.Ne7+ Kf7 25.Rb1 Qa3
+26.Qh6 Qxc3 27.Rb7 Nc7 28.Nxf5 Kg8 29.Ne7+ Kh8 30.Nxg6+ Kg8
+31.Nxf8 Rxf8 32.Qg5+ Kh8 33.Qe7 Re8 34.Qxc7 Qxc7 35.Rxc7 a5 36.a4 Bg4
+37.Kf1 Bh3+ 38.Ke1 Be6 39.Ra7 Kg8 40.Rxa5 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "09"]
+[White "Rebel"]
+[Black "GNU Chess"]
+[Result "1-0"]
+[ECO "B54"]
+[Opening "Sicilian: Taimanov variation (5...d6)"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 e6 6.Be2 e5 7.Nb3 Nf6 8.O-O Be7
+9.f4 O-O 10.Be3 b6 11.Qe1 Ng4 12.Bd2 Nf6 13.Rd1 {DIAGRAM} Kh8 14.fxe5 dxe5
+15.Bg5 Bd7 16.Bxf6 Bxf6 17.Bg4 Bxg4 18.Rxd8 Bxd8 19.Nd5 Rc8 20.Nd2 f6 21.Qg3 Be6
+22.Qa3 Re8 23.Nc4 Be7 24.Nxe7 Rxe7 25.Ne3 Rd7 26.Rd1 Rxd1+ 27.Nxd1 Re8
+28.Qd6 Nd4 29.Ne3 Bxa2 30.c3 Ne2+ 31.Kf1 Nf4 32.Qd7 Rg8 33.Qxa7 Bb1
+34.g3 Nh3 35.Nf5 Bxe4 36.Nd6 Bd3+ 37.Kg2 Ng5 38.h4 Bf5 39.Nxf5 Ne4
+40.Qxb6 Nd2 41.Nd6 Rf8 42.Qb7 Nb1 43.Qe7 Rb8 44.Ne8 Rxe8 45.Qxe8# 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "09"]
+[White "Diep"]
+[Black "Zzzzzz"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian: Saemisch, orthodox (7.d5 c6)"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Bd3 Nfd7
+9.Qd2 b6 10.O-O-O cxd5 11.Nxd5 Nc6 12.h4 Nc5 13.h5 Nd4 14.Kb1 Bb7
+15.hxg6 hxg6 16.Ne2 Nxd3 17.Qxd3 Bxd5 18.cxd5 Nxe2 19.Qxe2 f5
+20.Rc1 Rc8 21.Rc6 fxe4 22.fxe4 {DIAGRAM} Rxc6 23.dxc6 Rf7 24.Rd1 Qc7 25.Qc4 Bf6
+26.Qd5 Kg7 27.b4 a5 28.b5 Bd8 29.Qe6 Qe7 30.Rxd6 Qxe6 31.Rxe6 Bc7
+32.Kb2 Kh7 33.Bg5 Rf2+ 34.Kb3 Kg8 35.Re7 Rf7 36.Rd7 Kf8 37.Kc4 Ke8
+38.Rxf7 Kxf7 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.25"]
+[Round "09"]
+[White "Ant"]
+[Black "The Baron"]
+[Result "0-1"]
+[ECO "C07/17"]
+[Opening "French"]
+
+1.d4 e6 2.e4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd6 7.O-O Nf6
+8.Nb3 Nc6 9.Nbxd4 Nxd4 10.Nxd4 Bd7 11.Bg5 Qc5 12.Bxf6 gxf6 13.Qd3 O-O-O
+14.c3 Rg8 15.Qxh7 Bd6 16.Qd3 Qh5 17.f4 Rh8 18.h3 e5 19.fxe5 Qxe5
+20.Kf2 Rdg8 21.Rh1 Rg3 22.Qe2 Rhg8 23.Qxe5 fxe5 24.Ne2 Rxg2+ 25.Ke1 Bc5
+26.Bxf7 Rf8 27.Bd5 Rgf2 28.Kd2 Bb5 29.c4 Be8 30.a3 Bh5 31.Be6+ Kc7
+32.Bg4 Bg6 33.b4 Bd4 34.Rad1 Bb2 {DIAGRAM} 35.a4 Ba3 36.Ke3 Bxb4 37.Rd5 R2f6
+38.Rxe5 Bd6 39.Rb5 a6 40.Rg5 Re8+ 41.Kd2 Bb4+ 42.Kc1 Be4 43.Rg1 Rd8
+44.Rg7+ Kb8 45.Rd7 Rxd7 46.Bxd7 Rd6 47.Kb2 Rxd7 48.Nc3 Bc6 49.Rg3 Bxc3+
+50.Kxc3 Bxa4 51.Rg8+ Kc7 52.h4 Rf7 53.Rg4 Rf3+ 54.Kd4 Bd7 55.Re4 b6
+56.Ke5 a5 57.Re1 Rf5+ 58.Kd4 Rf4+ 59.Re4 Rxe4+ 60.Kd3 Rxh4 61.Kc2 a4
+62.Kd3 a3 63.Kc3 a2 64.Kc2 a1=Q 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "10"]
+[White "XiniX"]
+[Black "Ruffian"]
+[Result "1-0"]
+[ECO "B73/03"]
+[Opening "Sicilian"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d3 Bg7 5.Bd2 Nf6 6.Be2 d5 7.O-O O-O 8.Bf4 dxe4
+9.dxe4 Qb6 10.Nb5 Rd8 11.Qc1 Ne8 12.Nd2 a6 13.Nc3 Be6 14.Re1 Rd7
+15.Nd1 Rad8 16.c3 Ne5 17.Be3 Qc7 18.f4 Ng4 19.Bxg4 Bxg4 20.Nf2 Be6
+21.Nf3 Qa5 22.Ng5 Bc4 23.b3 h6 24.Nf3 Bd3 25.Ne5 Bxe5 26.fxe5 h5 27.c4 Nc7
+28.Bd2 Qb6 29.Bc3 {DIAGRAM} Qe6 30.Qh6 b6 31.Rad1 b5 32.Nh3 g5 33.Qxh5 b4
+34.Nxg5 Qg6 35.Qxg6+ fxg6 36.e6 Nxe6 37.Nxe6 bxc3 38.Rc1 c2 39.Nxc5 Rd4
+40.Nxd3 Rxd3 41.Rxc2 Rd2 42.Rec1 R2d4 43.Re1 Rd2 44.Re2 Rxe2
+45.Rxe2 Kg7 46.Rc2 Kf6 47.c5 Ke6 48.Kf2 Rf8+ 49.Kg3 Ke5 50.Rc4 Rc8
+51.c6 Kd6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "10"]
+[White "Zzzzzz"]
+[Black "Rebel"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD: Chigorin defence"]
+
+1.d4 d5 2.c4 Nc6 3.e3 e5 4.dxe5 d4 5.exd4 Qxd4 6.Qxd4 Nxd4 7.Bd3 Bg4
+8.Nc3 O-O-O 9.h3 Be6 10.Bg5 Be7 11.Bxe7 Nxe7 12.O-O-O Nec6 13.Re1 Rhe8
+14.Bf1 Bf5 15.Nge2 Nc2 16.Rd1 Rxd1+ 17.Kxd1 Nxe5 18.Ng3 Bg6 {DIAGRAM} 19.Nh5 Nb4
+20.Nf4 Rd8+ 21.Kc1 Rd4 22.Nxg6 fxg6 23.Kb1 Nxc4 24.Bxc4 Rxc4 25.Rd1 Nc6
+26.Re1 Rd4 27.Re8+ Rd8 28.Re4 a5 29.Rh4 h6 30.Re4 g5 31.Re2 b6
+32.f3 Nd4 33.Re4 c5 34.Kc1 Kd7 35.Na4 Kc6 36.Nc3 c4 37.Re5 Rd7
+38.Nb1 Kd6 39.Re4 Kd5 40.h4 gxh4 41.Nc3+ Kc6 42.Rxh4 b5 43.Re4 a4
+44.Re5 Rd6 45.f4 Rg6 46.Re4 Nf5 47.Re5 Nd6 48.Re2 Rg4 49.Rf2 a3 50.bxa3 Rg3
+51.Rc2 h5 52.a4 b4 53.Ne2 Rg4 54.g3 Kc5 55.a5 Ne4 56.Kd1 h4
+57.gxh4 Rxh4 58.Rc1 Rh3 59.f5 Ra3 60.Nf4 Rxa2 61.Ne6+ Kd5 62.Ke1 b3
+63.a6 b2 64.Rd1+ Ke5 65.Rb1 c3 66.Nf4 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "10"]
+[White "GNU Chess"]
+[Black "The King"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French: Tarrasch, closed variation, main line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.Bd3 c5 5.e5 Nfd7 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6
+9.Nf4 Qe7 10.Qh5+ Qf7 11.Bg6 hxg6 12.Qxh8 Nxd4 13.O-O Nxe5 14.Nb3 Nxb3
+15.axb3 {DIAGRAM} Nc6 16.Ne2 e5 17.f4 Bg4 18.Ng3 O-O-O 19.Qh4 Bc5+ 20.Kh1 Qd7
+21.fxe5 Nxe5 22.Qh7 Be6 23.b4 Bg8 24.Qh8 Bxb4 25.Rxa7 Kb8 26.Ra1 d4
+27.Qh4 Bc4 28.Rd1 g5 29.Qh7 Ng4 30.Bxg5 fxg5 31.Rdc1 d3 32.Rxc4 d2
+33.Rd1 Nf2+ 34.Kg1 Nxd1 35.Rxb4 Ne3 36.Kf2 d1=Q 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "10"]
+[White "Nullmover"]
+[Black "IsiChess MMX"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez: closed, anti-Marshall (8.a4)"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 d6 10.Nbd2 Re8 11.Nf1 Qd7 12.Ng3 Na5 13.Ba2 Nc6 14.c3 Nd8
+15.Bb3 c5 16.axb5 axb5 17.Rxa8 Bxa8 18.Nf5 Ne6 19.Nxe7+ Rxe7 20.Ng5 Nf8
+21.f4 Qc7 22.fxe5 dxe5 23.Qe2 h6 24.Nh3 Bb7 25.Rf1 Ne8 26.Be3 Nd6 27.Nf2 c4
+28.dxc4 bxc4 29.Bc2 Nd7 30.Qg4 Re6 31.Kh1 Nf6 32.Qf3 Qa5 33.Re1 Qa8
+34.Bc5 Nd7 35.Bb4 Nf6 36.Qe2 Bc6 37.b3 Qa2 38.bxc4 Nxc4 39.Bd3 Qxe2
+40.Rxe2 Bb5 41.Ra2 Kh7 42.Be2 Rc6 43.Ra7 Ra6 44.Rxa6 Bxa6 45.h4 Kg6
+46.g4 h5 47.g5 Nd7 48.Kh2 Nb8 49.Nd3 Nd7 50.Nb2 Ndb6 51.Bc5 Nxb2
+52.Bxa6 N6c4 53.Bc8 Kh7 54.Kg2 Nd2 55.Bd7 Nd3 56.Be3 Nc4 57.Bg1 Nf4+
+58.Kh1 Kg8 59.Bf2 Nd2 60.Bc6 Ne2 61.Be1 Nf3 62.Bb5 Nf4 63.Bg3 Kf8 64.c4 Nd3
+65.Kg2 Nd2 66.c5 Nxc5 67.Bxe5 Ncxe4 68.Bb2 Kg8 69.Ba4 Nc5 70.Bc6 Nc4
+71.Bd4 Ne6 72.Ba1 Ne3+ 73.Kh3 Nf5 74.Be5 Kh7 75.Bf3 Kg6 76.Bc6 {DIAGRAM} Nxg5+
+77.hxg5 Kxg5 78.Bc3 Kh6 79.Bd5 f6 80.Be6 Nd6 81.Bb4 Ne4 82.Bf5 Ng5+
+83.Kg3 g6 84.Bd3 Ne6 85.Bc4 Nd4 86.Kf4 Kg7 87.Bc5 Nf5 88.Be2 Nh6 89.Kg3 Nf7
+90.Kh4 Ng5 91.Bb5 Nf3+ 92.Kg3 Ne5 93.Be8 Ng4 94.Ba4 Nh6 95.Bd1 Nf7
+96.Bf3 Nd8 97.Be7 Ne6 98.Bd5 Nd4 99.Bc5 Nf5+ 100.Kf3 g5 101.Be6 Nh6
+102.Ke2 h4 103.Ke3 f5 104.Be7 Kg6 105.Kd4 h3 106.Bd6 Ng4 107.Bd5 f4
+108.Be4+ Kh6 109.Bf8+ Kh5 110.Bf3 Kh4 111.Bb4 h2 112.Be1+ Kh3
+113.Bh1 Ne3 114.Bf2 Nd1 115.Be1 g4 116.Ke4 g3 117.Bf3 g2 118.Bd2 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "10"]
+[White "Deep Sjeng"]
+[Black "Ant"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[Opening "QGD: exchange, positional line (5...c6)"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Bf5 7.Qf3 Bg6
+8.Bxf6 Qxf6 9.Qxf6 gxf6 10.Nf3 Bb4 11.Rd1 Nd7 12.a3 Bxc3+ 13.bxc3 Bh5
+14.Rb1 Bxf3 15.gxf3 b5 16.Bd3 Ke7 17.Rg1 Ke6 18.Rg3 h6 19.e4 a6 20.Kd2 Nb6
+21.Re1 Kd6 22.Rg7 Ra7 23.Rg4 h5 24.Rf4 Nd7 25.Rg1 Rh6 26.Rg3 Nb6 27.Rg8 Ra8
+28.Rxa8 Nxa8 29.Ke3 Nc7 30.Bc2 Ne6 31.Rh4 Rh8 32.Bd1 Ng7 33.Bb3 a5
+34.Bc2 Rh6 35.Rh3 h4 36.Bd3 Rh5 37.Be2 Rh8 38.Bd1 a4 39.Be2 f5
+40.e5+ Ke7 41.f4 Ne8 42.Kd2 Nc7 43.Kd3 Ne6 44.Rf3 Rg8 45.Kc2 Rg2 46.h3 Nf8
+47.Bf1 Rg1 48.Bd3 Ke6 49.Kb2 Ng6 50.Bc2 Re1 51.Bb1 Re2+ 52.Bc2 f6
+53.Kb1 Re1+ 54.Kb2 Ne7 55.Bb1 Rf1 56.Bd3 Rh1 57.Re3 Rg1 58.Bb1 Rf1
+59.Rf3 Ng6 60.Bd3 Rd1 61.Kc2 Re1 62.Kb2 Rg1 63.Ka2 Rd1 64.Bc2 Rh1
+65.Kb2 Ne7 66.Ka2 Rg1 67.Re3 Ng6 68.Rf3 Rc1 69.Kb2 Rg1 70.Ka2 Nh8
+71.Bd3 Rd1 72.Bc2 Re1 73.Bd3 Nf7 74.Kb2 Rg1 75.Kc2 Ra1 76.Kb2 Rd1
+77.Kc2 Rh1 78.Kb2 Nh8 79.Bc2 Rh2 80.Kc1 Rg2 81.Kd2 Rg1 82.Bd1 Ng6
+83.Kc2 Re1 84.Re3 Rh1 85.Rf3 c5 86.Kd2 c4 87.exf6 Kxf6 88.Kc2 Nf8
+89.Re3 Ne6 90.Bf3 Rh2 91.Bxd5 Nxf4 92.Bc6 Rxf2+ 93.Kc1 Nd3+ 94.Kd1 b4
+95.cxb4 Ra2 96.b5 Rxa3 97.b6 Nf2+ 98.Ke2 Ra2+ 99.Kf1 Rb2 100.Bxa4 Ne4
+101.Bc6 Ng3+ 102.Ke1 Rxb6 103.Bd5 Rb1+ 104.Kf2 Rf1+ 105.Kg2 {DIAGRAM} Rd1
+106.Bxc4 Rxd4 107.Re6+ Kg5 108.Ba6 Nh5 109.Re3 Rd2+ 110.Kg1 Nf4 111.Bf1 Kf6
+112.Re8 Ng6 113.Rc8 f4 114.Bg2 Rb2 115.Be4 Ne7 116.Rh8 Ke5 117.Ba8 Ng6
+118.Rh5+ Kd4 119.Rh6 Rb6 120.Kf2 Rf6 121.Bf3 Re6 122.Bd1 Ke5
+123.Bc2 Ne7 124.Rh5+ Kd6 125.Rxh4 Ke5 126.Kf3 Rc6 127.Rh5+ Kd4 128.Be4 Re6
+129.Ra5 Rh6 130.Kxf4 Rxh3 1/2-1/2
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "10"]
+[White "Tao"]
+[Black "The Baron"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian: four knights fianchetto variation"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.g3 b5 5.Bg2 Nc6 6.d4 cxd4 7.Nxd4 Bb7 8.O-O Bc5
+9.Nb3 Be7 10.e5 Qc7 11.Re1 Rb8 12.Qh5 Nb4 13.Qg4 g5 14.Qe2 Bxg2
+15.Kxg2 Nxc2 16.Qxc2 b4 17.Qd3 bxc3 18.Qxa6 Bb4 19.Re2 Ne7 20.a3 cxb2
+21.Bxb2 Bc3 22.Bxc3 Qxc3 23.Re3 Qb2 24.Rae1 Nd5 25.Rf3 O-O 26.Nc5 g4
+27.Rd3 Qc2 28.Nxd7 Rb2 29.Rf1 Qe2 30.Nf6+ Nxf6 31.exf6 Rd2 32.Rd6 Qf3+
+33.Kg1 Rxd6 34.Qxd6 Qxf6 35.a4 Rd8 36.Qb6 Rd2 {DIAGRAM} 37.a5 Rb2 38.Qc5 Ra2
+39.a6 Kg7 40.Qc4 Qb2 41.Qxg4+ Kf8 42.Qh4 Rxa6 43.Qxh7 Ra2 44.Qh6+ Ke8
+45.Qe3 Qf6 46.Rc1 Qf5 47.Qd4 e5 48.Qc5 Rb2 49.Rc4 Qe6 50.Re4 Rb1+
+51.Kg2 Kd7 52.Rxe5 Qc6+ 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "10"]
+[White "Diep"]
+[Black "Chess Tiger"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "A41 Old Indian Defense"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.g3 c6 6.Bg2 Be7 7.h4 Nf6 8.O-O d5
+9.cxd5 cxd5 10.Nc3 Nc6 11.Nh3 Be6 12.Bg5 O-O 13.Nf4 Bf7 14.e3 h6
+15.Bxf6 Bxf6 16.Rc1 g5 17.hxg5 hxg5 18.Nh3 Qd7 19.Na4 Rac8 20.Nc5 Qe7 21.Qa4 b6
+22.Na6 Qb7 {DIAGRAM} 23.b4 Kg7 24.b5 Na5 25.Rxc8 Qxc8 26.Nb4 Be6 27.Nc6 f4
+28.Nxg5 Bxg5 29.exf4 Bf6 30.Ne5 Qc7 31.Qa3 Nc4 32.Qb4 Rc8 33.Rc1 Qe7
+34.Qe1 Qa3 35.Rxc4 Rxc4 36.Nxc4 dxc4 37.Qxe4 Bf7 38.Qe2 Qd3 39.Qg4+ Qg6
+40.Qf3 Bxd4 41.f5 Qg5 42.Qd1 Bc5 43.Qf3 Qd2 44.Qg4+ Kf8 45.Qh4 Qxf2+
+46.Kh2 Qxf5 47.Qh8+ Ke7 48.Qh4+ Qf6 49.Qe4+ Kf8 50.Bf3 Qh6+ 51.Kg2 Qd2+
+52.Qe2 c3 53.Qxd2 cxd2 54.Bd1 Bxa2 55.g4 Bc4 56.g5 Bxb5 57.g6 a5 58.Kf3 Kg7
+59.Ke4 a4 60.Kf4 a3 61.Bc2 a2 62.Kf5 a1=Q 63.Bb3 d1=Q 64.Bxd1 Bd7+
+65.Kg5 Qe5+ 66.Kh4 Be7# 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "11"]
+[White "Ruffian"]
+[Black "Zzzzzz"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Rb1 Nf6 5.Bg2 Bg7 6.e3 O-O 7.Nge2 d6 8.b4 a5
+9.b5 Nb4 10.d3 d5 11.a3 dxc4 12.axb4 cxd3 13.Ng1 Bg4 14.Qa4 axb4
+15.Qxb4 Qc8 16.Nf3 Re8 17.O-O {DIAGRAM} Bf8 18.Qc4 Be6 19.Qxd3 e4 20.Nxe4 Nxe4
+21.Qxe4 Bf5 22.Qc4 Bxb1 23.Bb2 Bg7 24.Bxg7 Kxg7 25.Rxb1 h6 26.Qc5 Kg8
+27.Nd4 Rd8 28.Rc1 h5 29.Qxc7 Qxc7 30.Rxc7 Ra1+ 31.Bf1 h4 32.gxh4 Rd6
+33.Rxb7 Rc1 34.Kg2 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "11"]
+[White "The King"]
+[Black "Tao"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 Bd6 5.Be2 Bxf4 6.exf4 Qd6 7.Qd2 Ne4
+8.Qc1 O-O 9.O-O b6 10.Qe3 Bb7 11.Nbd2 Nxd2 12.Qxd2 c5 13.c3 Nd7 14.Rfe1 Nf6
+15.Rad1 Rac8 16.Bd3 Kh8 17.Bc2 Ba6 18.f5 exf5 19.Bxf5 Rce8 20.Ne5 Re7
+21.b3 Rfe8 22.Re3 g6 23.Bc2 cxd4 24.cxd4 Rc8 25.Rde1 Ng8 26.Bb1 f6
+27.Nd3 Rcc7 28.Rxe7 Rxe7 29.Rc1 Re4 30.Qb4 Qb8 31.a4 Nh6 32.Qc3 Re2
+33.Qc6 Ng4 34.g3 Re7 35.Qxd5 f5 36.h3 Nf6 37.Qc6 Ne4 38.Ne5 Bb7 39.Qc4 Ng5
+40.Qb4 Qd8 41.Kf1 a5 42.Qc4 Qa8 43.Bd3 Bg2+ 44.Kg1 Nxh3+ 45.Kh2 Nxf2
+46.Bxf5 Bd5 47.Qe2 gxf5 48.Qxf2 Qf8 49.Qe3 Rg7 50.Rc3 Qe8 51.Qh6 Qd8
+52.Qf4 Qf8 53.g4 Be4 54.Kg1 Qa8 55.Kf2 {DIAGRAM} Qf8 56.Ke3 Bd5 57.gxf5 Qg8
+58.Qh6 Qb8 59.f6 Rg3+ 60.Kf4 Rg1 61.Qh3 Bb7 62.Qe6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "11"]
+[White "IsiChess MMX"]
+[Black "XiniX"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA: 3.Nf3"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 c6 4.e3 b5 5.a4 e6 6.axb5 cxb5 7.b3 Nf6 8.bxc4 bxc4
+9.Bxc4 Bb7 10.O-O Nbd7 11.Nbd2 Qc7 12.Qa4 Bd6 13.Ba3 O-O 14.Bd3 Bc6
+15.Qc2 Rfc8 16.Ba6 {DIAGRAM} Rcb8 17.Bxd6 Qxd6 18.e4 Ne8 19.e5 Qc7 20.Rfc1 Rb6
+21.Ng5 Nf8 22.Nc4 Rxa6 23.Rxa6 Qb7 24.Ra3 Bxg2 25.f3 h6 26.Qe4 Qc8
+27.Rc2 f5 28.Nb6 Qd8 29.Qxa8 Qxg5 30.f4 Qg4 31.Rxg2 Qd1+ 32.Kf2 Qxd4+
+33.Kg3 g5 34.Rf2 Ng7 35.Nc8 Nh5+ 36.Kg2 Nxf4+ 37.Rxf4 Qxf4 38.Ne7+ Kh7
+39.Qf3 Qd2+ 40.Qf2 Qb4 41.Qxa7 Qb2+ 42.Kf1 Qc1+ 43.Ke2 Qc2+ 44.Ke3 f4+
+45.Kf3 Qd1+ 46.Kg2 Nd7 47.Qg1 Qe2+ 48.Qf2 Qe4+ 49.Kh3 Kg7 50.Qf3 Qxf3+
+51.Rxf3 Nxe5 52.Rb3 h5 53.Rb5 Kf6 54.Ng8+ Kf5 55.Kg2 g4 56.h4 gxh3+
+57.Kxh3 f3 58.Kg3 h4+ 59.Kf2 h3 60.Kg3 h2 61.Kxh2 Kf4 62.Rb4+ Kg5 63.Kg3 f2
+64.Rf4 Nd3 65.Rf3 Kg6 66.Nf6 Kf7 67.Ng4+ Ke7 68.Nxf2 Ne5 69.Rb3 Nd7
+70.Ne4 Kf7 71.Ng5+ Kf6 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "11"]
+[White "The Baron"]
+[Black "Deep Sjeng"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "D11 QGD Slav: 4.e3"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Bd3 c5 6.Nbd2 Nc6 7.dxc5 Bxc5 8.O-O O-O
+9.a3 dxc4 10.Nxc4 b5 11.Nce5 Nxe5 12.Nxe5 Bd6 13.f4 a6 14.b4 Bb7 15.Bb2 Rc8
+16.Rf2 Nd5 17.Qf3 f5 18.Qg3 Nc3 19.Bc4 Bxe5 20.Bxe6+ Kh8 21.Bxc8 Ne4
+22.Bxb7 Nxg3 23.Bxe5 Qd7 24.Bf3 Ne4 25.Rd1 Qe6 26.Rb2 Kg8 27.g4 Re8
+28.Re2 Qb3 29.Rd4 Nc3 30.Re1 fxg4 31.Bxg4 Nd5 32.Bd7 Re7 33.Bc6 Nxe3
+34.Be4 Rxe5 35.fxe5 Qc3 36.Rd8+ Kf7 37.Re2 Qc1+ 38.Kf2 Nd1+ 39.Kf3 Nc3
+40.Rf2 Ke7 41.Rd4 h5 {DIAGRAM} 42.Bb7 Qg1 43.Rfd2 g5 44.Rd6 Qh1+ 45.Rg2 Qf1+
+46.Ke3 Nd1+ 47.Kd2 Nb2 48.Kc2 Qf5+ 49.Kb3 Nc4 50.Rxa6 h4 51.h3 Qxh3+
+52.Ka2 Qd3 53.Bc8 Nxe5 54.Be6 h3 55.Rf2 g4 56.Bb3 g3 57.Ra7+ Nd7
+58.Rf7+ Kd8 59.Ra8+ Kc7 60.Ra7+ Kc8 61.Raxd7 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "11"]
+[White "Ant"]
+[Black "Diep"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian: Spielmann, Karlsbad variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Ne4 7.Bd2 Nxd2
+8.Nxd2 Bxc5 9.e3 O-O 10.Be2 b6 11.O-O Bb7 12.Nde4 Rb8 13.Rad1 f5
+14.Nxc5 bxc5 15.Qa3 Qe7 16.Rd2 f4 17.exf4 Rxf4 18.Rfd1 Qg5 19.f3 Nd4
+20.Qxa7 Rff8 21.Kh1 Bc6 22.Qc7 Ra8 23.Qg3 Qe7 24.Qg4 Qf6 25.Qh5 Nf5
+26.Re1 Qe5 27.Qg5 Rf6 {DIAGRAM} 28.Rd3 Rh6 29.f4 Qb8 30.Bf3 Bxf3 31.Rxf3 Qxb2
+32.Rg1 Qc2 33.a4 Rb8 34.a5 Rg6 35.Qh5 Rb3 36.g4 Kf8 37.Qh3 Rh6 38.Qg2 Qxg2+
+39.Rxg2 Nh4 40.Rd3 Nxg2 41.Kxg2 Rb2+ 42.Kg3 Rbxh2 43.Kf3 Ke7 44.a6 Rh1
+45.Na4 R6h3+ 46.Kg2 Rxd3 47.Kxh1 Ra3 48.Nxc5 Ra5 49.Nd3 Rxa6 50.Kg2 Ra4
+51.Kf3 Rxc4 52.Ne5 d5 53.Kg3 Re4 54.Nf3 d4 55.Nd2 Re3+ 56.Kf2 Kf6 57.Nc4 g5
+58.fxg5+ Kxg5 59.Nd6 Kxg4 60.Nb5 0-1
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "11"]
+[White "Chess Tiger"]
+[Black "GNU Chess"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian: Kan (5.Nc3)"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Bd3 Nc6 7.Nxc6 dxc6
+8.O-O Bd6 9.Kh1 Nf6 10.Bg5 Be5 11.f4 Bxc3 12.bxc3 c5 13.Bxf6 gxf6
+14.Qg4 Bd7 15.Qg7 O-O-O 16.Qxf7 {DIAGRAM} c4 17.Be2 f5 18.exf5 Rdf8 19.Qe7 exf5
+20.Qb4 Be6 21.Rfd1 a5 22.Qb2 Rhg8 23.Bf3 Rd8 24.Rd4 Rxd4 25.cxd4 Rd8
+26.Re1 Bd5 27.Bxd5 Rxd5 28.Re8+ Kd7 29.Re5 Rxe5 30.fxe5 h5 31.d5 Kc8
+32.Qd4 b5 33.d6 Qd7 34.Qd5 Qb7 35.Qg8+ Kd7 36.Qf7+ Kc6 37.e6 b4
+38.Qxb7+ Kxb7 39.e7 Kc6 40.e8=Q+ Kxd6 41.Qxh5 Ke6 42.g4 fxg4
+43.Qxg4+ Kd5 1-0
+
+[Event "23rd Dutch CC"]
+[Site "Leiden NED"]
+[Date "2003.10.26"]
+[Round "11"]
+[White "Rebel"]
+[Black "Nullmover"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bf4 d5 4.e3 Bf5 5.f3 Nd6 6.Nd2 e6 7.c4 Nxc4
+8.Nxc4 dxc4 9.Bxc4 Bb4+ 10.Kf1 Bd6 11.Ne2 O-O 12.e4 Bg6 13.h4 Bxf4
+14.Nxf4 Qf6 15.Qc1 Qxd4 16.h5 Bxe4 17.fxe4 Qxe4 18.h6 g6 19.Be2 Nd7
+20.Nd3 c6 21.Qc3 e5 22.Bf3 Qf5 23.Kg1 Rad8 24.Re1 Rfe8 25.Rh4 Qg5
+26.Rb4 Rb8 27.Rbe4 Qxh6 28.Nxe5 Nxe5 29.Rxe5 Qf8 30.Bd1 Rxe5
+31.Qxe5 Rd8 32.Bb3 Rd7 33.Rf1 Qd8 34.Rf3 a5 35.a4 Re7 36.Qf4 Qd7 37.Qf6 Qc7
+38.Rf1 b5 39.Ba2 bxa4 40.Rf4 Qb6+ 41.Kh2 Qc7 42.Bc4 c5 43.g3 Qd7 44.Rf2 Qc7
+45.Rf3 Qb7 46.Kg1 Re1+ 47.Kg2 Re7 48.Kh2 Qc7 49.Rf2 Qd7 50.Bd5 Qc7
+51.Kg2 Qd7 52.Ba2 Qb7+ 53.Kh2 Qd7 54.Kg1 Qc7 55.Rf4 Qb7 56.Bd5 Qd7
+57.Rf1 Qc7 58.Kg2 Re2+ 59.Kh1 Re7 60.Bc4 Rd7 61.Kh2 Rd2+ 62.Kh3 Rd7
+63.Rf2 Qc8 64.Kh2 Qc7 65.Be6 Re7 66.Bd5 Qd7 67.g4 Qc7+ 68.Kh1 Re1+
+69.Kg2 Re7 70.g5 Qd7 71.Kh2 Qa7 72.Bc4 Qc7+ 73.Rf4 Rd7 74.Kg2 Qb7+
+75.Kg3 Qc7 76.Be6 Re7 77.Bd5 Qd7 78.Rf3 Qc7+ 79.Kh3 Qc8+ 80.Kh2 Qf8
+81.Bc4 Qb8+ 82.Rf4 Qc7 83.Kg1 Qd7 84.Kg2 Qc7 85.Rf1 Qb7+ 86.Kg1 Qc7
+87.Rf3 Rd7 88.Be6 Re7 89.Bd5 Qd7 90.Kg2 Re2+ 91.Kf1 Re7 92.Kf2 Qe8
+93.Qf4 Re2+ 94.Kg3 Re7 95.Bc4 Rb7 96.Rf2 Qf8 97.Qe5 Rd7 98.Kg2 Qc8
+99.Rf4 Qb7+ 100.Rf3 Re7 101.Qf6 Qd7 102.Kh2 Qc7+ 103.Kh1 Rd7
+104.Be6 Re7 105.Bd5 Qa7 106.Bc4 {DIAGRAM} Qc7 107.Rd3 Re1+ 108.Kg2 Re8
+109.Bb5 Re2+ 110.Kf1 Re7 111.Rd6 a3 112.bxa3 a4 113.Bxa4 Qc8 114.Qxe7 Qh3+
+115.Ke2 Qg2+ 116.Ke1 Qg3+ 117.Kd1 Qg4+ 118.Kc1 Qf4+ 119.Kb2 Qh2+
+120.Bc2 Qxd6 121.Qxd6 Kg7 122.Bb3 c4 1-0

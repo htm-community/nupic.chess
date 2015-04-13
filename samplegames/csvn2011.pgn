@@ -1,0 +1,541 @@
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "1"]
+[White "Arminius"]
+[Black "Kallisto"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Bg4 11. f3 Na5 12. Bxf7+ Rxf7 13. fxg4 Rxf1+
+14. Kxf1 Qd6 15. e5 Qd5 16. g5 Qe4 17. Bf2 Rf8 18. Ng1 Nc4 19. Nf3 Ne3+ 
+20. Bxe3 Qxe3 21. Qb3+ Kh8 22. Re1 Qxg5 23. dxc5 Qh4 24. Qxb7 Qc4+ 
+25. Re2 Qxc5 26. Qb4 Qc7 27. Kg1 Rb8 28. Qa4 Rb1+ 29. Kf2 Rb8 30. g3 Rf8 
+31. Qd4 Qc6 32. Re4 g5 33. g4 Qa6 34. Kg3 h6 35. h4 gxh4+ 36. Nxh4 Kh7 
+37. a4 Rc8 38. Re3 e6 39. Qe4+ Kg8 40. Nf3 Qc4 41. Qb7 Rf8
+42. Qe4 Rc8 43. Qc2 Kh8 44. Qd1 Rf8 45. Qd4 Qf1 46. Qe4 Qc1 47. c4 a6 
+48. Rd3 Kg8 49. Rd6 Rxf3+ 50. Kxf3 Qf1+ 51. Ke3 Qe1+ 52. Kd4 Qg1+ 
+53. Kc3 Bxe5+ 54. Kc2 Bxd6 55. Qxe6+ Kg7 56. Qxd6 Qxg4 57. Qxa6 Qe4+ 
+58. Kb2 Qe2+ 59. Kb3 Qe3+ 60. Kb4 Qd2+ 61. Kb5 Qb2+ 62. Kc6 Qf6+ 
+63. Kb7 Qf7+ 64. Kb6 Qf6+ 65. Ka7 Qd4+ 66. Kb7 h5 67. Qe6 Qc5 68. Qd7+ Kf6 
+69. Qd8+ Kg6 70. Qb6+ Qxb6+ 71. Kxb6 h4 72. c5 h3 73. c6 h2 74. c7 h1=Q 
+75. c8=Q Qb1+ 76. Ka7 Qg1+ 77. Ka8 Qb6 78. Qe8+ Kf6 79. Qb5 Qc7 80. a5 Qc8+
+81. Ka7 Qc7+ 82. Ka6 Ke6 83. Qb6+ Kd7 84. Qd4+ Ke6 85. Qb6+ Kd7 86. Qd4+ Ke6 
+87. Qb6+ 1/2-1/2
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "1"]
+[White "Pandix"]
+[Black "Spartacus 1.01"]
+[Result "1-0"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5
+8. Nf3 cxd4 9. Bg5 Qf5 10. cxd4 Nc6 11. Be2 Bb4+ 12. Bd2 O-O 13. O-O Rd8 
+14. Be3 Bc3 15. Bd3 Qa5 16. Rc1 f5 17. d5 exd5 18. 
+cxd5 Ne5 19. Bg5 Re8 
+20. Nxe5 Bxe5 21. d6 Kh8 22. Bc4 Bd7 23. Bf7 Red8 24. Qh5 Bxd6 25. Bg6 Bxh2+ 
+26. Kh1 h6 27. Bxh6 Kg8 28. Bg5 Qd5 29. Be7 Qxg2+ 30. Kxg2 Bc6+
+31. Kxh2 a6 32. Qh7# 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "1"]
+[White "ProDeo 1.6"]
+[Black "Spark"]
+[Result "1/2-1/2"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 
+7. O-O Nc6 8. d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 
+12. f3 Kh8 13. Ne6 Bxe6 14. dxe6 Nh5 15. Bg5 Bf6 16. Bh6 Bg7 
+17. Bg5 Bf6 18. Bh6 Bg7 19. Bg5 1/2-1/2
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011-10-16"]
+[Round "01"]
+[White "The King"]
+[Black "Gadget"]
+[Result "1-0"]
+ 
+ 1.d4 e6 2.Nf3 Nf6 3.e3 c5 4.Bd3 b6 
+ 5.O-O Nc6 6.c4 Qc7 7.Nc3 Ba6 8.d5 Nb4 
+ 9.Be2 exd5 10.a3 Nc6 11.cxd5 Bxe2 12.Qxe2 Nd8 
+ 13.e4 Ng4 14.e5 Rc8 15.h3 Nh6 16.Ne4 Qb7 
+ 17.Bxh6 gxh6 18.Nf6+ Ke7 19.d6+ Ke6 20.Qc4+ Kf5 
+ 21.Qg4# 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011-10-15"]
+[Round "02"]
+[White "Gadget"]
+[Black "Spartacus"]
+[Result "0-1"]
+ 
+ 1.c4 e5 2.Nf3 e4 3.Nd4 Nc6 4.Nxc6 dxc6 
+ 5.Nc3 Nf6 6.Qb3 Bc5 7.e3 O-O 8.Be2 Rb8 
+ 9.Na4 Be7 10.O-O Bf5 11.c5 Qd7 12.Bc4 Ng4 
+ 13.f3 exf3 14.Rxf3 Ne5 15.Rf2 Bd3 16.Bxd3 Nxd3 
+ 17.Re2 Bxc5 18.Nxc5 Nxc5 19.Qa3 Nd3 20.Qxa7 Qg4 
+ 21.Kf1 Qf5+ 22.Kg1 Qh5 23.Kf1 Qxh2 24.e4 f5 
+ 25.e5 b6 26.Re3 Qh1+ 27.Ke2 Nf4+ 28.Kf2 Qxg2+ 
+ 29.Ke1 Qg1# 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "2"]
+[White "Kallisto"]
+[Black "Pandix Breakthrough"]
+[Result "0/1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. a4 Nb6 16. dxe5 dxe5 17. Qe2 bxa4 18. Bxa4 Nxa4 19. Rxa4 a5 20. Bg5 h6 
+21. Rd1 Qe7 22. Bd2 Bc6 23. Raa1 a4 24. c4 Red8 25. Bc3 Rxd1+ 26. Rxd1 Nd7 
+27. Qd2 a3 28. bxa3 Rxa3 29. Qb2 f6 30. Nd2 Qc5 31. h4 Qb6 32. Qc1 h5 
+33. Rf1 Kf7 34. Kh1 Ra2 35. f4 exf4 36. Rxf4 Bd6 37. Rf3 Ne5 38. c5 Qxc5 
+39. Nb3 Qb5 40. Bxe5 Bxe5 41. Qh6 Be8 42. Qh7+ Kf8 43. Nd2 Bf7 44. Qh6+ Kg8 
+45. Qe3 c5 46. Ndf1 Ra1 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "2"]
+[White "Spark"]
+[Black "Arminius"]
+[Result "1-0"]
+
+1. d4 d5 2. Bf4 c5 3. e3 cxd4 4. exd4 Nc6 5. c3 g6 6. Nf3 Bg7 7. Bb5 a6 
+8. Ba4 f6 9. O-O g5 10. Bc1 h5 11. Ne1 Bg4 12. f3 Bf5 13. Nd3 Kf7 
+14. Qe2 Qc8 15. Nd2 b6 16. Re1 e6 17. Nf1 Nge7 18. a3 Ra7 19. b4 Nd8 
+20. Bb2 Nb7 21. Bb3 Nd6 22. Ne3 Bh7 23. c4 dxc4 24. Nxc4 Nxc4 
+25. Bxc4 Nd5 26. Rac1 Qd7 27. b5 a5 28. Bb3 Re8 29. Rc6 Raa8 
+30. Nf2 Rac8 31. Rec1 h4 32. Ne4 Rxc6 33. bxc6 Qc7 34. Qb5 Nf4
+35. Rd1 Kf8 36. a4 Bxe4 37. fxe4 Bh8 38. d5 exd5 39. Rxd5 Nxd5 
+40. Qxd5 b5 41. axb5 a4 42. Qg8+ Ke7 43. Ba3+ Kd8 44. Qd5+ Kc8
+45. Bd6 axb3 46. ... 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "2"]
+[White "The King"]
+[Black "ProDeo 1.6"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 
+7. bxc3 c5 8. e3 Nc6 9. Bd3 dxc4 10. Bxc4 cxd4 11. cxd4 Qa5+ 12. Qd2 O-O 
+13. O-O Bg4 14. Qxa5 Nxa5 15. Be2 f6 16. Rac1 Rac8 17. d5 a6 18. h3 Bd7 
+19. Nd4 Kf7 20. Bg3 b5 21. e4 Nc4 22. Rfe1 Kg8 23. Rcd1 Nb2 24. Rd2 Nc4 
+25. Rd3 Nb2 26. Ra3 f5 27. e5 f4 28. Bh4 Bxe5 29. Ne6 Bxe6 30. dxe6 Na4 
+31. Bxe7 Rfe8 32. Bg5 Bd6 33. Rxa4 bxa4 34. Bxa6 Rc5 35. Bf6 Kf8 36. Bf1 Rf5 
+37. Bd4 Ke7 38. Ba6 Rb8 39. Rd1 Kxe6 40. Bd3 Ra5 41. Re1+ Kd7 42. Bc4 Re8 
+43. Rb1 Rc8 44. Bb5+ Ke7 45. Re1+ Kf8 46. Bd7 Rc2 47. Re8+ Kf7 48. Re4 g5 
+49. Kf1 Ra6 50. Bb5 Ra8 51. Bd3 Rd2 52. Bc4+ Kf8 53. Bf6 h6 54. h4 gxh4 
+55. Ke1 Rc2 56. Bxh4 Re8 57. Rxe8+ Kxe8 58. Bb5+ Kf8 59. Bxa4 f3 60. g4 Rxa2 
+61. Bc6 Ra3 62. Be4 h5 63. gxh5 Ra4 64. Bxf3 Rxh4 65. Kf1 Kg7 66. Kg2 Kh6 
+67. Kf1 Ra4 68. Kg2 Kg5 69. Bc6 Ra2 70. Be8 Bc5 71. Kf1 Bxf2 72. Bf7 Rd2 
+73. Be6 Bg3 74. Bc8 Kxh5 75. Ba6 Rf2+ 76. Ke1 Ra2+ 77. Kd1 Rxa6 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "3"]
+[White "The King"]
+[Black "Arminius"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Nf3 Bb4+ 
+8. Bd2 Bxd2+ 9. Qxd2 Nd7 10. O-O-O c5 11. d5 O-O 12. d6 b5 13. cxb5 Bb7 14. Qe3 Rfb8 
+15. Ng5 a6 16. Bd3 g6 17. Ne4 Bxe4 18. Bxe4 Rxb5 19. Rd2 Rab8 20. Qc3 Qf4 21. Qe3 Qf6 
+22. Qc3 Qf4 23. Qe3 Qf6 1/2-1/2
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "3"]
+[White "Pandix Breakthrough"]
+[Black "Spark"]
+[Result "1-0"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 
+6. O-O O-O 7. d3 a6 8. a3 h6 9. b4 Ba7 10. Bb2 Be6 
+11. e3 Qd7 12. Qc2 Bh3 13. Rac1 Ne7 14. Ne4 Nxe4 15. Bxh3 Qxh3 
+16. dxe4 Qg4 17. Kg2 f5 18. h3 Qxe4 19. Qxe4 fxe4 20. Nd2 Nf5 
+21. Rfe1 Rf7 22. Nxe4 Raf8 23. Re2 g5 24. Rd1 Ne7 25. a4 Kh7 
+26. a5 Ng8 27. c5 Nf6 28. Nxf6+ Rxf6 29. f4 dxc5 30. fxe5 Rc6 
+31. Rd7+ Kg6 32. e6 Rg8 33. Re7 cxb4 34. Rf2 g4 35. hxg4 Bxe3 
+36. Rf6+ Kg5 37. Rf8 Rc2+ 38. Kh3 Rxb2 39. Rxg8+ Kf6 40. Rh7 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "3"]
+[White "ProDeo 1.6"]
+[Black "Gadget, Microsoft"]
+[Result "1-0"]
+
+1. c4 Nf6 2. d4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 
+6. cxd5 Nxd5 7. Qc2 Nxc3 8. Qxc3 h6 9. g3 Nc6 10. e4 a6 
+11. Bd3 Qd7 12. Be3 O-O-O 13. O-O Be7 14. b4 Bf6 15. Rac1 b5 
+16. a4 Be7 17. axb5 Nxb4 18. Ne5 Na2 19. Qa5 Nxc1 20. bxa6 Ne2+ 
+21. Bxe2 Qe8 22. axb7+ Kxb7 23. Qa6+ Kb8 24. Rb1+ Bb4 25. Rxb4+ Qb5 
+26. Rxb5# 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "3"]
+[White "Spartacus 1.01"]
+[Black "Kallisto"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 
+6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 
+11. c4 b4 12. Nc2 Rb8 13. Be2 O-O 14. Nxf6+  Qxf6 15. O-O Rd8 
+16. Qd5 Bd7 17. Rfd1 Rbc8 18. Qd2 Qh4 19. Nxb4 Qxe4 20. Nxa6 Nd4 
+21. Bd3 Qb7 22. Nb4 Bh3 23. Nd5 Bg4 24. Be4 Qa7 25. Re1 Be6 
+26. b3 f5 27. Bf3 Nxf3+ 28. gxf3 Qf7 29. Rad1 f4 30. Qe2 Qg6+ 
+31. Kh1 Qf7 32. Rd2 Rc6 33. Qd1 Rb8 34. Nc3 Qe7 35. Nb5 Rbb6 
+36. a4 Bh3 37. Nd4 Rc5 38. Ne2 Be6 39. Nc3 Kh8 40. Rd3 Rcc6 
+41. Re2 Bh3 42. Ne4 h6 43. Re1 Qc7 44. Rd5 Be6 45. Rb5 Ra6 
+46. Qd2 Bg8 47. Rd1 Qe7 48. Qb4 Qe6 49. Rb8 Qh3 50. Nd2 Rc8 
+51. Rb7 Rcc6 52. Rg1 g5 53. Rg4 Rc8 54. Rb6 Rxb6 55. Qxb6 Be6 
+56. Qxd6 Bxg4 57. fxg4 Re8 58. Qf6+ Kg8 59. Qg6+ Kf8 60. Qf5+ Ke7 
+61. c5 Qc3 62. Nc4 Qf3+ 63. Kg1 Qd1+ 64. Kg2 Qd5+ 65. f3 Qxc5 
+66. h4 Rf8 67. Qh7+ Kd8 68. Qxh6 e4 69. fxe4 gxh4 70. Qxh4+ Kc8
+71. Qf2 f3+ 72. Kf1 Qg5 73. Qd4 Qc1+ 74. Kf2 Qc2+ 75. Nd2 Qc7 
+76. Qc4 Qxc4 77. Nxc4 Kc7 78. g5 Rg8 79. Kxf3 Rxg5 80. Ke2 Rg2+ 
+81. Kd3 Kc6 82. Kd4 Rg8 83. b4 Rd8+ 84. Kc3 Re8 85. Nd2 Kd6 
+86. Kd4 Rd8 87. Nb3 Ke6+ 88. Kc4 Ke5 89. b5 Rc8+ 90. Kb4 Kxe4 
+91. a5 Kd5 92. a6 Rf8 93. Ka5 Kc4 94. Nd2+ Kd3 95. a7 Kxd2 
+96. b6 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011-10-15"]
+[Round "04"]
+[White "Gadget"]
+[Black "Kallisto"]
+[Result "0-1"]
+ 
+ 1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 
+ 5.Bg2 O-O 6.O-O e4 7.Ng5 Bxc3 8.bxc3 Re8 
+ 9.d3 exd3 10.exd3 h6 11.Ne4 b6 12.Re1 Nxe4 
+ 13.Bxe4 Bb7 14.Bf4 Na5 15.Qg4 Bxe4 16.Rxe4 Rxe4 
+ 17.dxe4 Nxc4 18.Bxh6 Qf6 19.Bf4 Qc6 20.Re1 Re8 
+ 21.Qd1 Ne5 22.Bxe5 Rxe5 23.f4 Rc5 24.Re3 Rxc3 
+ 25.Rxc3 Qxc3 26.Kg2 Qb2+ 27.Kh3 Qxa2 28.Qxd7 Qe6+ 
+ 29.Qxe6 fxe6 30.g4 a5 31.e5 a4 32.f5 a3 
+ 33.fxe6 Kf8 34.Kg3 Ke7 35.h4 a2 36.g5 a1=Q 
+ 37.g6 Qe1+ 38.Kh3 Qg1 39.h5 Kxe6 40.Kh4 Kxe5 
+ 41.Kh3 Kf4 42.Kh4 Qg3# 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "4"]
+[White "ProDeo 1.6"]
+[Black "Armenius"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 
+6. Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 
+11. Rxe5 c6 12. Re1 Bd6 13. d3 Bf5 14. Qf3 Re8 15. Rxe8+ Qxe8 
+16. Nd2 Qe1+ 17. Nf1 Bg6 18. Bxd5 cxd5 19. Qxd5 Rd8 20. Bg5 Qxa1 
+21. Bxd8 Bf8 22. h4 h6 23. Bb6 Qxb2 24. h5 Bh7 25. Qd8 Qb1 
+26. Bc5 Bxd3 27. Qxf8+ Kh7 28. Qxf7 Qxf1+ 29. Kh2 Qe2 30. Kh3 Bc4 
+31. Qf5+ Kg8 32. g4 Be6 33. Qf4 Qf1+ 34. Kh2 Qe2 35. Kg3 Qe1 
+36. Bd4 Qg1+ 37. Kh3 Qh1+ 38. Kg3 Qg1+ 39. Kh3 Qh1+ 40. Kg3 Qg1+ 
+1/2-1/2
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "4"]
+[White "Spark"]
+[Black "Spartacus 1.01"]
+[Result "1-0"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. d3 Nd7 5. c4 Ngf6
+6. cxd5 Nxd5 7. O-O e5 8. Nc3 Nxc3 9. bxc3 Be7 10. Qb3 Qc7
+11. Ba3 Be6 12. Qb2 Qb6 13. Qc1 Qd8 14. Rb1 b6 15. d4 Bxa2
+16. Nxe5 Nxe5 17. dxe5 O-O 18. Rd1 Qe8 19. Ra1 Bb3 20. Rd4 Bxa3 
+21. Qxa3 Bd5 22. Bxd5 cxd5 23. Rxd5 Qe6 24. e4 a5 25. Qa4 f5 
+26. f4 fxe4 27. Rd6 Qc8 28. Qd4 a4 29. Rxa4 Rxa4 30. Qxa4 Qxc3 
+31. Qxe4 g5 32. Kg2 gxf4 33. Rd7 Rf7 34. Rxf7 Qd2+ 35. Kh3 Kxf7 
+36. Qf5+ Ke7 37. Qf6+ Ke8 38. e6 Qd6 39. Qf7+ Kd8 40. gxf4 Qe7 
+41. Qf5 Qd6 42. Qf6+ Ke8 43. Qf7+ Kd8 44. f5 Qd3+ 45. Kh4 Qd6 
+46. Kh3 Qd3+ 47. Kh4 Qd6 48. h3 b5 49. f6 Qd4+ 50. Kh5 Qd5+ 
+51. Kh6 Kc8 52. Kg7 Qg2+ 53. Kf8 Qxh3 54. e7 Qa3 55. Kg7 Qg3+ 
+56. Kh8 Qe5 57. e8=Q+ Qxe8+ 58. Qxe8+ Kb7 59. f7 Ka6 60. f8=Q b4 
+61. Qc6+ Ka5 62. Qfc5# 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.15"]
+[Round "4"]
+[White "The King"]
+[Black "Pandix Breakthrough"]
+[Result "0-1"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 
+6. e3 c5 7. dxc5 Bxc5 8. a3 Nc6 9. Qc2 Qa5 10. Rd1 Be7 
+11. Nd2 e5 12. Bg5 d4 13. Nb3 Qd8 14. Be2 a5 15. Na4 g6 
+16. Bxf6 Bxf6 17. c5 Bd7 18. Nb6 a4 19. Nd2 Ra5 20. Ndc4 Rxc5
+21. Nxa4 Rxc4 22. Qxc4 b5 23. Qxb5 Nb8 24. Qb4 Be7 25. Nc5 Qc7 
+26. exd4 exd4 27. Qxd4 Bxc5 28. Qc3 Re8 29. Rd2 Bb5 30. Kd1 Bc6 
+31. Bf3 Bf8 32. Bxc6 Nxc6 33. Re1 Rc8 34. Re4 Bh6 35. Rd5 Qb6 
+36. Rd7 Qxf2 37. Qf3 Qg1+ 38. Re1 Ne5 39. Rxg1 Nxf3 40. Rf1 Ne5 
+41. Rd4 Rc1+ 42. Ke2 Rc2+ 43. Kd1 Rxb2 44. Re1 Nc6 45. Rd6 Rb1+ 
+46. Ke2 Rb6 47. Kf1 Bf8 48. Rd3 Ra6 49. Ree3 h5 50. Ke1 Bc5 
+51. Rh3 Kg7 52. Kf1 Nd4 53. Ke1 Nc2+ 54. Ke2 Re6+ 55. Kd2 Ne1 
+56. Rd5 Bg1 57. Rd7 Nxg2 58. Rf3 Be3+ 59. Kc3 Nf4 60. a4 g5 
+61. Kb2 g4 62. Rg3 Bf2 63. Rc3 Bg1 64. Rc2 Ne2 65. Ka2 Bxh2 
+66. Rdd2 h4 67. Rxe2 Rxe2 68. Rxe2 g3 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011-10-16"]
+[Round "05"]
+[White "Arminius"]
+[Black "Gadget"]
+[Result "1-0"]
+ 
+ 1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4 Nc6 
+ 5.Nf3 Bb4+ 6.Nbd2 Qe7 7.e3 Nxe5 8.Nxe5 Nxe5 
+ 9.Be2 d6 10.Qa4+ Nc6 11.a3 Bxd2+ 12.Kxd2 g5 
+ 13.Bg3 g4 14.h3 gxh3 15.gxh3 Bd7 16.Qc2 O-O-O 
+ 17.b4 h6 18.b5 Ne5 19.a4 Rhg8 20.Kc1 Rde8 
+ 21.Ra2 Be6 22.a5 Qd7 23.a6 Bf5 24.axb7+ Kxb7 
+ 25.e4 Bxh3 26.c5 Ka8 27.Qa4 c6 28.Rxh3 cxb5 
+ 29.Bxb5 Qe7 30.Bxe5 dxe5 31.Bc6+ Kb8 32.Rb3+ Kc8 
+ 33.Qa6+ Kd8 34.Rb8+ Kc7 35.Qb7# 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "5"]
+[White "Kallisto, de"]
+[Black "spark-1.1b"]
+[Result "0-1"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nc2 Bc5 
+6. Nc3 Nf6 7. Be3 d6 8. Bxc5 dxc5 9. Qxd8+ Kxd8 10. Rd1+ Ke7 
+11. Nd5+ Nxd5 12. cxd5 Nd4 13. Na3 Nf5 14. Nc4 f6 15. d6+ Ke8 
+16. g3 Be6 17. Bh3 Kd7 18. a4 Rac8 19. e4 Bxc4 20. f4 Be6 
+21. exf5 Bb3 22. fxe5 Bxd1 23. Kxd1 Rhe8 24. e6+ Kxd6 25. Kc2 Ke7 
+26. Bg2 Rb8 27. Rd1 Red8 28. Rxd8 Kxd8 29. Kd3 Ke7 30. Bd5 g6 
+31. g4 Rg8 32. Ke3 gxf5 33. gxf5 b6 34. Kf3 Rg5 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "5"]
+[White "Pandix"]
+[Black "ProDeo 1.6"]
+[Result "1-0"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 
+6. O-O O-O 7. d3 h6 8. a3 a6 9. b4 Ba7 10. Bb2 Be6 
+11. e3 Qd7 12. Qc2 Bh3 13. Rac1 Bxg2 14. Kxg2 Qe6 15. e4 Ne8 
+16. Nd5 f5 17. Rcd1 fxe4 18. dxe4 a5 19. c5 axb4 20. axb4 Rf7 
+21. b5 Nd8 22. Ra1 b6 23. c6 Nf6 24. Nxf6+ Qxf6 25. Nh4 Ne6 
+26. Ra3 Nf4+ 27. Kh1 Ng6 28. Nf5 Ne7 29. Nxe7+ Qxe7 30. Qc4 Kh7 
+31. Kg1 Qf8 32. Qe2 Qb8 33. Rfa1 g5 34. Bc1 Rg7 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011-10-16"]
+[Round "5"]
+[White "Spartacus"]
+[Black "The King"]
+[Result "0-1"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 c6 5. a4 Bf5 
+6. e3 e6 7. Bxc4 Bb4 8. O-O Nbd7 9. Qe2 Bg6 10. e4 O-O 
+11. Na2 Ba5 12. b4 Bc7 13. Nc3 e5 14. dxe5 Nxe5 15. Nxe5 Bxe5 
+16. Bb2 Qd6 17. b5 Bxh2+ 18. Kh1 Be5 19. Ra3 Rae8 20. Rd1 Qc5 
+21. bxc6 bxc6 22. Rb3 Bxc3 23. Rxc3 Rxe4 24. Bxf7+ Rxf7 25. Rd8+ Rf8 
+26. Rxc5 Rxe2 27. Rxf8+ Kxf8 28. Bxf6 gxf6 29. f3 Re6 30. Kg1 a6 
+31. Kf2 Ke7 32. Rc4 Kd6 33. Rc1 c5 34. Rd1+ Kc6 35. g4 c4 
+36. f4 Bd3 37. g5 fxg5 38. Rd2 gxf4 39. Rd1 Re3 40. Rc1 Kd5 
+41. Rg1 Ke4 42. Rg8 Rf3+ 43. Kg2 Rg3+ 44. Rxg3 fxg3 45. Kxg3 c3 
+46. Kh4 c2 47. Kg5 c1=Q+ 48. Kf6 Qc7 49. a5 Be2 50. Ke6 Bc4+ 
+51. Kf6 Qe5# 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "6"]
+[White "Arminius"]
+[Black "Pandix"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 
+6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 
+11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b4 Nb6 
+16. a5 Na4 17. Qb3 Qd7 18. Bc2 exd4 19. cxd4 c5 20. e5 c4 
+21. Nxc4 bxc4 22. Qa3 Nd5 23. Bxa4 Bc6 24. Bxc6 Qxc6 25. Qa4 Qxa4 
+26. Rxa4 dxe5 27. dxe5 Bxb4 28. Bd2 c3 29. Bg5 h6 30. Bc1 c2
+31. Rf1 Rac8 32. Ra2 Bf8 33. Ra1 Nb4 34. g3 Red8 35. Kg2 Rd1 
+36. Be3 Rxa1 37. Rxa1 Bc5 38. Bd2 Nd3 39. h4 Bb4 40. Be3 c1=R 
+41. Bxc1 Rxc1 42. Ra2 Rc5 43. Re2 Rxa5 44. Re3 Nxf2 45. Kxf2 Bc5 
+46. Ke2 Bxe3 47. Kxe3 Ra3+ 48. Ke2 a5 49. Nd4 Rxg3 50. Nc6 a4 
+51. Kd2 Rg4 52. Kc3 Rxh4 53. Kb2 Rh3 54. Ka2 h5 55. ... 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011-10-16"]
+[Round "06"]
+[White "Gadget"]
+[Black "Spark"]
+[Result "0-1"]
+ 
+ 1.d4 e6 2.e4 d5 3.Nd2 c5 4.exd5 exd5 
+ 5.Nf3 Nc6 6.Bb5 Qe7+ 7.Kf1 Bd7 8.Bxc6 bxc6 
+ 9.dxc5 Qxc5 10.Nb3 Qc4+ 11.Kg1 Bd6 12.Bg5 Ne7 
+ 13.Qd3 Qxd3 14.cxd3 a5 15.Re1 f6 16.Be3 a4 
+ 17.Bc5 axb3 18.Bxd6 bxa2 19.Ra1 Bf5 20.Ne1 Kd7 
+ 21.Ba3 Rxa3 22.bxa3 Rb8 23.Rxa2 Rb1 24.Re2 Bxd3 
+ 25.Kf1 Ba6 26.f4 Rb2 27.h4 Bxe2+ 28.Kg1 d4 
+ 29.Rh3 c5 30.Nd3 Bxd3 31.Rxd3 Rb1+ 32.Kf2 Nf5 
+ 33.h5 c4 34.Rd2 c3 35.Re2 d3 36.h6 dxe2 
+ 37.Kxe2 c2 38.g4 c1=Q 39.gxf5 Rb3 40.hxg7 Qc2+ 
+ 41.Kf1 Rb1# 0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "6"]
+[White "ProDeo 1.6"]
+[Black "Spartacus, Microsoft"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 
+6. Bd3 Nc6 7. O-O Be7 8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 
+11. a3 Nxc3 12. bxc3 Nc6 13. Re1 dxc4 14. Bxc4 Na5 15. Ba2 c5 
+16. Ne5 cxd4 17. Bxf7+ Rxf7 18. Nxf7 Kxf7 19. Qf3 Qc8 20. g4 dxc3 
+21. gxf5 Qc5 22. Be3 Qc4 23. Bf4 Kf8 24. Be5 Bf6 25. Bxf6 gxf6 
+26. Re4 Qc7 27. Rg4 h5 28. Rg6 c2 29. Qe3 Qe5 30. Qh6+ Ke7 
+31. Rg7+ Kd6 32. Qd2+ Kc6 33. Qxc2+ Kb6 34. Rb1+ Ka6 35. Qd3+ b5 
+36. Re7 Rg8+ 37. Kf1 Rb8 38. Rxe5 fxe5 39. a4 e4 40. axb5+ Kb7 
+41. Qxe4+ Kb6 42. Qe6+ Kc5 43. Qe5+ Kb6 44. Qxb8+ Nb7 45. Rc1 Ka5 
+46. Qc7+ Kb4 47. Qc4+ 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "6"]
+[White "The King"]
+[Black "Kallisto"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5
+8. cxd5 Nxd5 9. a3 Bd6 10. Ne4 Be7 11. Bc2 O-O 12. Qd3 Qc7 13. O-O Rd8 14. Ng5
+g6 15. Bb3 Bf8 16. Ne4 Be7 17. Rd1 Qb6 18. Bh6 Nf6 19. Nxf6+ Bxf6 20. Be3 Ne7
+21. Ng3 Nd5 22. Ne4 Be7 23. a4 Nxe3 24. a5 Qb4 25. Qxe3 Qb5 26. Rdc1 b6 27. a6
+Bd7 28. Rc7 Rdc8 29. Rb7 Re8 30. Qf3 Kg7 31. Rd1 Bc6 32. d5 Bxb7 33. Qc3+ e5
+34. axb7 Rab8 35. d6 Bd8 36. Bd5 Qe2 37. Rc1 Qh5 38. d7 Rf8 39. Nd6 Bh4 40. Qc8
+Qg5 41. Ne8+ Kh8 42. g3 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "7"]
+[White "Kallisto"]
+[Black "ProDeo 1.6"]
+[Result "0-1"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 
+6. Bh4 O-O 7. e3 b6 8. Rc1 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5
+11. Bd3 c5 12. O-O Re8 13. dxc5 bxc5 14. Qb3 Bc6 15. Bb5 d4 
+16. Rfd1 Re6 17. Bc4 Re7 18. exd4 cxd4 19. Nd5 Rd7 20. Nxf6+ Qxf6 
+21. Be2 Rd6 22. Rc4 Na6 23. Rcxd4 Re6 24. R4d2 Nc5 25. Qc2 Rae8 
+26. Nd4 Ne4 27. Bg4 Rd6 28. Rd3 Bb7 29. Bf3 Rc8 30. Qxc8+ Bxc8 
+31. Bxe4 Bg4 32. f3 Bd7 33. Kh1 Qg5 34. R3d2 Bb5 35. Bc2 Qe3 
+36. b3 g6 37. a4 Bf1 38. h3 Qg5 39. Rf2 Qd8 40. Rfd2 Be2 
+41. Rxe2 Rxd4 42. Rde1 Qd6 43. Re8+ Kg7 44. R1e2 Rd5 45. Kg1 Rc5 
+46. Kf2 Qd4+ 47. R8e3 f5 48. Ke1 h5 49. Rd3 Qg1+ 50. Kd2 f4 
+51. b4 Rc6 52. b5 Rc7 53. Rd5 Qa1 54. Rd8 Qf6 55. Rd3 Qb2 
+56. Kd1 Qa1+ 57. Kd2 h4 58. Rd8 Qf6 59. Rd3 Qb2 60. Kd1 Qa1+ 
+61. Kd2 Kh6 62. Rd8 Qf6 63. Rd3 Qb2 64. Kd1 Qa1+ 65. Kd2 Rc8 
+66. Rd7 Qc3+ 67. Kd1 Rc5 68. Rd8 Qa1+ 69. Kd2 Qa3 70. Kd1 Qc3 
+71. Rd7 Qa1+ 72. Kd2 a6 73. Rd3 axb5 74. axb5 Rxb5 75. Bd1 Qa5+ 
+0-1
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011-10-16"]
+[Round "07"]
+[White "Pandix"]
+[Black "Gadget"]
+[Result "1-0"]
+ 
+ 1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 
+ 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3 O-O 
+ 9.d3 Be6 10.b4 a5 11.b5 Nd4 12.Rb1 Nxf3+ 
+ 13.Bxf3 Qc8 14.Qc2 Rd8 15.a4 Bg4 16.Bh1 Bh3 
+ 17.Re1 Bc5 18.Ne4 Bd6 19.Nxd6 cxd6 20.Qxc8 Raxc8 
+ 21.Bxb7 Rc7 22.Bf3 Nxa4 23.b6 Rc2 24.b7 Rb8 
+ 25.Ba3 Nc5 26.Rb6 g5 27.Bxc5 dxc5 28.Ra6 Rb2 
+ 29.Ra8 Rf8 30.Rxa5 g4 31.Bh1 e4 32.Bxe4 f5 
+ 33.Bd5+ Kg7 34.Ra8 Rh8 35.Rea1 Rxb7 36.Bxb7 Rxa8 
+ 37.Rxa8 h5 38.Rc8 c4 39.Rxc4 Kf6 40.Rc5 h4 
+ 41.Rc6+ Ke5 42.gxh4 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "7"]
+[White "spark-1.1b"]
+[Black "The King, de"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 
+6. Nf3 Nc6 7. Bc4 Nb6 8. Bb5 Bd7 9. Nc3 e6 10. O-O Be7 
+11. exd6 Bxd6 12. d5 exd5 13. Nxd5 Be6 14. Nxb6 Qxb6 15. Qxd6 Qxb5 
+16. Be3 Rd8 17. Qg3 g6 18. Bh6 Qxb2 19. Rab1 Qxa2 20. Bg7 Rg8 
+21. Bf6 Rc8 22. Ng5 Qd5 23. Rxb7 Qf5 24. Qc3 Rg7 25. Rd1 Qa5 
+26. Qc1 1-0
+
+[Event "31th Dutch Open CCC"]
+[Site "Leiden, Netherland"]
+[Date "2011.10.16"]
+[Round "7"]
+[White "Spartacus"]
+[Black "Arminius"]
+[Result "1-0"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 
+6. Bd3 Bg6 7. O-O Nbd7 8. Be2 dxc4 9. Bxc4 b5 10. Bd3 b4 
+11. Ne2 Bd6 12. Re1 c5 13. dxc5 Nxc5 14. Bb5+ Kf8 15. Ned4 Qc7
+16. Be2 a6 17. Nb3 Rd8 18. Bd2 Nd3 19. Bxd3 Bxd3 20. Rc1 Qb6 
+21. Nbd4 Be4 22. Qa4 Ra8 23. Nc6 a5 24. Nfe5 h5 25. Nc4 Qxc6 
+26. Qxc6 Bxc6 27. Nxd6 Bd7 28. Nc4 Ke7 29. e4 Rhb8 30. Bg5 Kf8 
+31. Be3 Ra6 32. Ne5 Be8 33. f3 Kg8 34. Rc7 Raa8 35. Kf2 a4 
+36. Ra1 a3 37. b3 Rd8 38. Rc4 Rab8 39. Bc5 Rb5 40. Ke3 Rdb8 
+41. Nd3 R5b7 42. Rxb4 Bb5 43. Rc1 Ne8 44. Nf4 e5 45. Nd5 Nc7 
+46. Ne7+ Kh7 47. Bd6 Na6 48. Rxb5 Rxb5 49. Bxb8 Nxb8 50. Nd5 Rb7 
+51. Rc4 f6 52. Ra4 Nc6 53. Rxa3 Rb8 54. Ra6 Rc8 55. f4 exf4+ 
+56. Nxf4 h4 57. Nd5 Ne5 58. Ra7 Kh6 59. Kd2 Re8 60. h3 Nc6 
+61. Rc7 Nd4 62. Kd3 Ne6 63. Rc4 Ra8 64. a4 Kg5 65. Ke3 Kg6 
+66. Rc3 Ra6 67. Rc8 Ra7 68. Rc1 Kf7 69. Rc6 Ra5 70. Rb6 Nd8 
+71. Rd6 Ke8 72. Kd4 Ra7 73. Kd3 Nf7 74. Re6+ Kf8 75. Rb6 Ra8 
+76. Rb7 Nd8 77. Rc7 Ne6 78. Rc4 Kf7 79. Kc2 Ra7 80. Rc8 Kg6 
+81. Kc3 Ng5 82. Kd3 Ne6 83. Rb8 Nc5+ 84. Kd4 Ne6+ 85. Kc4 Ng5 
+86. Kd3 Ne6 87. Rb5 Nc7 88. Nf4+ Kf7 89. Rb6 Na8 90. Rd6 Rb7 
+91. Kc3 Re7 92. Nd5 Rxe4 93. Ra6 Re8 94. Ra7+ Kg6 95. a5 Kf5 
+96. Rxg7 Ke6 97. Nf4+ Kf5 98. Ng6 Kg5 99. Ne7+ Kh6 100. Nf5+ Kh5 
+101. b4 Re1 102. Ra7 Rc1+ 103. Kb2 Rc8 104. b5 Rb8 105. Nd4 Kg5 
+106. Ka3 f5 107. Nf3+ Kh5 108. Kb4 f4 109. Rd7 Kg6 110. Nxh4+ Kg5 
+111. Rh7 f3 112. Nxf3+ Kf5 113. Nd2 Kg6 114. Ra7 Kf5 115. Nc4 Ke6 
+116. b6 Kd5 117. Kb5 Rc8 118. Rd7+ Ke6 119. Rd6+ Kf5 120. b7 Rb8 
+121. Kc6 Kg5 122. a6 Kf4 123. a7 Rxb7 124. Kxb7 Kg3 125. Kxa8 Kf2 
+126. Kb7 Kg1 127. Rf6 Kh2 128. a8=Q Kh1 129. Ne3 Kh2 130. Qb8+ Kg1 
+131. Rf1# 1-0
+
